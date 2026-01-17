@@ -1,13 +1,12 @@
-name: Run SoSoBot
+name: Run SoSoBot Browser
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/10 * * * *' # Har 10 min
   workflow_dispatch:
 
 jobs:
   run-bot:
     runs-on: ubuntu-latest
-    # Permissions yaha bhi add kar dete hain backup ke liye
     permissions:
       contents: write
     steps:
@@ -19,16 +18,18 @@ jobs:
         with:
           python-version: '3.9'
 
-      - name: Install dependencies
-        run: pip install requests
+      - name: Install Dependencies
+        run: |
+          pip install requests playwright
+          playwright install chromium
 
       - name: Run Script
         run: python bot.py
 
       - name: Update Last ID
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add last_id.txt || echo "No changes to add"
-          git commit -m "Update last news ID" || echo "No changes to commit"
-          git push || echo "No changes to push"
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add last_id.txt || echo "No file to add"
+          git commit -m "Update DB" || echo "No changes"
+          git push || echo "No push"

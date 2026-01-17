@@ -18,7 +18,7 @@ def main():
         with open("last_id.txt", "r") as f:
             last_id = f.read().strip()
     else:
-        last_id = "0"
+        last_id = "1"
 
     try:
         res = requests.get(URL, headers=headers, timeout=20)

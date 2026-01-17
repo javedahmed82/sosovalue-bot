@@ -1,76 +1,63 @@
-import requests
 import os
+import requests
+from playwright.sync_api import sync_playwright
+import time
 
 # --- CONFIG ---
 TOKEN = "8269485479:AAGCDQSlfB53PfS3X6Ysexr2QBX4pwkRya4"
 CHAT_ID = "-1002341209589"
-URL = "https://gw.sosovalue.com/api/v1/research/news?limit=5"
+TARGET_URL = "https://sosovalue.com/research/news" # Frontend URL
+
+def send_telegram(msg):
+    url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
+    payload = {"chat_id": CHAT_ID, "text": msg, "parse_mode": "HTML"}
+    requests.post(url, json=payload)
 
 def main():
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://m.sosovalue.com/",
-        "Origin": "https://m.sosovalue.com"
-    }
+    print("🚀 Starting Chromium Browser...")
+    
+    with sync_playwright() as p:
+        # Browser Launch (Headless = Dikhai nahi dega, background me chalega)
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context(
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        )
+        page = context.new_page()
 
-    # last_id check (Integer conversion)
-    last_id = 0
-    if os.path.exists("last_id.txt"):
         try:
-            with open("last_id.txt", "r") as f:
-                content = f.read().strip()
-                if content:
-                    last_id = int(content)
-        except:
-            last_id = 0
-
-    print(f"DEBUG: Checking news newer than ID: {last_id}")
-
-    try:
-        res = requests.get(URL, headers=headers, timeout=20)
-        if res.status_code == 200:
-            data = res.json()
-            news_list = data.get('data', {}).get('list', [])
-            print(f"DEBUG: Found {len(news_list)} items on Server")
+            print(f"🌐 Visiting: {TARGET_URL}")
+            page.goto(TARGET_URL, timeout=60000) # 60 sec wait
             
-            new_last_id = last_id
+            # Wait for content to load
+            print("⏳ Waiting for news to load...")
+            time.sleep(10) # Thoda extra wait taaki JavaScript load ho jaye
+
+            # Page ka Title check karte hain confirm karne ke liye
+            page_title = page.title()
+            print(f"✅ Page Loaded: {page_title}")
+
+            # NOTE: SoSoValue ka HTML structure dekhna padega. 
+            # Filhal hum poore page ka text utha kar check karte hain.
+            # Agar 'Cloudflare' detect hua to bata dega.
             
-            # Reverse loop to post oldest first
-            for news in reversed(news_list):
-                try:
-                    curr_id = int(news['id'])
-                    title = news.get('title', 'No Title')
-                    
-                    # Log comparison
-                    # print(f"DEBUG: Comparing New {curr_id} > Old {last_id}")
+            content = page.content()
+            
+            if "Just a moment" in page_title or "Cloudflare" in content:
+                print("❌ Cloudflare Detected! GitHub IP is blocked.")
+                send_telegram("⚠️ <b>Bot Alert:</b> Cloudflare Blocked the Browser.")
+            else:
+                # Yahan hum ek screenshot le sakte hain debugging ke liye
+                # Lekin abhi ke liye hum bas Title bhej kar confirm karte hain
+                msg = f"<b>✅ Browser Access Success!</b>\n\nPage Title: {page_title}\n\n(Ab hum specific news element dhundh sakte hain)"
+                print("📩 Sending Success Msg...")
+                send_telegram(msg)
 
-                    if curr_id > last_id:
-                        print(f"🚀 New News Found: {title[:20]}...")
-                        msg = f"<b>🚨 SOSOVALUE UPDATE</b>\n\n<b>{title}</b>"
-                        
-                        # Telegram Post
-                        tel_url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
-                        payload = {"chat_id": CHAT_ID, "text": msg, "parse_mode": "HTML"}
-                        
-                        post_res = requests.post(tel_url, json=payload)
-                        
-                        if post_res.status_code == 200:
-                            print(f"✅ Sent to Telegram. ID: {curr_id}")
-                            new_last_id = curr_id
-                        else:
-                            print(f"❌ Telegram Error: {post_res.status_code}")
-                    else:
-                        pass # Skipping old news silently
-                except Exception as e:
-                    print(f"Skipping item due to error: {e}")
-
-            # Save the NEWEST ID
-            with open("last_id.txt", "w") as f:
-                f.write(str(new_last_id))
-        else:
-            print(f"❌ SoSoValue Blocked/Error: {res.status_code}")
-    except Exception as e:
-        print(f"⚠️ Exception: {e}")
+        except Exception as e:
+            print(f"⚠️ Error: {e}")
+            send_telegram(f"⚠️ Script Error: {str(e)[:100]}")
+        
+        finally:
+            browser.close()
 
 if __name__ == "__main__":
     main()

@@ -1,7 +1,7 @@
-name: Run SoSoBot Browser
+name: Run SoSoBot
 on:
   schedule:
-    - cron: '*/10 * * * *' # Har 10 min
+    - cron: '*/10 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -18,18 +18,19 @@ jobs:
         with:
           python-version: '3.9'
 
-      - name: Install Dependencies
-        run: |
-          pip install requests playwright
-          playwright install chromium
+      - name: Install dependencies
+        run: pip install requests
 
       - name: Run Script
+        env: # Ye line batati hai ki Secrets use karne hain
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
         run: python bot.py
 
       - name: Update Last ID
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add last_id.txt || echo "No file to add"
+          git add last_id.txt || echo "No changes"
           git commit -m "Update DB" || echo "No changes"
-          git push || echo "No push"
+          git push || echo "No changes"

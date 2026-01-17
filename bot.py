@@ -13,50 +13,60 @@ def main():
         "Origin": "https://m.sosovalue.com"
     }
 
-    # last_id check
-    last_id = "1"
+    # last_id check (Integer conversion)
+    last_id = 0
     if os.path.exists("last_id.txt"):
         try:
             with open("last_id.txt", "r") as f:
                 content = f.read().strip()
                 if content:
-                    last_id = content
+                    last_id = int(content)
         except:
-            pass
+            last_id = 0
 
-    print(f"DEBUG: Checking news newer than {last_id}")
+    print(f"DEBUG: Checking news newer than ID: {last_id}")
 
     try:
         res = requests.get(URL, headers=headers, timeout=20)
         if res.status_code == 200:
             data = res.json()
             news_list = data.get('data', {}).get('list', [])
-            print(f"DEBUG: Found {len(news_list)} items")
+            print(f"DEBUG: Found {len(news_list)} items on Server")
             
             new_last_id = last_id
             
+            # Reverse loop to post oldest first
             for news in reversed(news_list):
-                curr_id = str(news['id'])
-                if curr_id > last_id:
+                try:
+                    curr_id = int(news['id'])
                     title = news.get('title', 'No Title')
-                    msg = f"<b>🚨 SOSOVALUE UPDATE</b>\n\n<b>{title}</b>"
                     
-                    # Telegram Post
-                    tel_url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
-                    payload = {"chat_id": CHAT_ID, "text": msg, "parse_mode": "HTML"}
-                    
-                    post_res = requests.post(tel_url, json=payload)
-                    
-                    if post_res.status_code == 200:
-                        print(f"✅ Success: Posted ID {curr_id}")
-                        new_last_id = curr_id
-                    else:
-                        print(f"❌ Telegram Error: {post_res.status_code}")
-                else:
-                    print(f"DEBUG: Skipping old ID {curr_id}")
+                    # Log comparison
+                    # print(f"DEBUG: Comparing New {curr_id} > Old {last_id}")
 
+                    if curr_id > last_id:
+                        print(f"🚀 New News Found: {title[:20]}...")
+                        msg = f"<b>🚨 SOSOVALUE UPDATE</b>\n\n<b>{title}</b>"
+                        
+                        # Telegram Post
+                        tel_url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
+                        payload = {"chat_id": CHAT_ID, "text": msg, "parse_mode": "HTML"}
+                        
+                        post_res = requests.post(tel_url, json=payload)
+                        
+                        if post_res.status_code == 200:
+                            print(f"✅ Sent to Telegram. ID: {curr_id}")
+                            new_last_id = curr_id
+                        else:
+                            print(f"❌ Telegram Error: {post_res.status_code}")
+                    else:
+                        pass # Skipping old news silently
+                except Exception as e:
+                    print(f"Skipping item due to error: {e}")
+
+            # Save the NEWEST ID
             with open("last_id.txt", "w") as f:
-                f.write(new_last_id)
+                f.write(str(new_last_id))
         else:
             print(f"❌ SoSoValue Blocked/Error: {res.status_code}")
     except Exception as e:

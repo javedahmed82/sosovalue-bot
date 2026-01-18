@@ -3,7 +3,7 @@ import requests
 import xml.etree.ElementTree as ET
 import time
 import re
-from groq import Groq # <--- Google gaya, Mistral aaya
+from groq import Groq
 import asyncio
 import edge_tts
 
@@ -13,7 +13,7 @@ CHAT_ID = os.environ.get("CHAT_ID")
 GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
 RSS_URL = "https://cointelegraph.com/rss"
 
-# --- MISTRAL CLIENT SETUP ---
+# --- GROQ CLIENT ---
 if GROQ_API_KEY:
     client = Groq(api_key=GROQ_API_KEY)
 else:
@@ -42,31 +42,33 @@ def extract_image(description):
     img_match = re.search(r'src="(.*?)"', description)
     return img_match.group(1) if img_match else None
 
-def get_mistral_content(title, description):
+def get_groq_content(title, description):
     """
-    Ye function Mistral (Mixtral-8x7b) use karega jo ek powerhouse hai.
+    DEBUG MODE:
+    Ye function ASLI ERROR Telegram par bhejega agar fail hua.
+    Uses Llama-3-70b model.
     """
     if not client:
-        return description, f"Here is the update on {title}"
+        return f"❌ Error: GROQ_API_KEY Missing in Secrets!", "System Failure."
 
     try:
         prompt = f"""
-        Act as a funny, high-energy crypto YouTuber.
+        Act as a funny crypto news anchor.
         
         News: {title} - {description}
         
-        Task 1: Write a detailed summary (150 words). Use Bullet points. Explain the 'So What?'.
-        Task 2: Write a funny Voice Script (100 words). Be conversational. Start with "Yo Crypto Fam!".
+        Task 1: Detailed Summary (150 words). Bullet points. Explain "Why it matters".
+        Task 2: Funny Voice Script (100 words). Conversational style. Start with "Yo Crypto Fam!".
         
         IMPORTANT: Separate Task 1 and Task 2 with exactly "||||".
         """
         
-        # Mistral Call via Groq
+        # Calling Llama 3 model (Best on Groq)
         chat_completion = client.chat.completions.create(
             messages=[
                 {"role": "user", "content": prompt}
             ],
-            model="mixtral-8x7b-32768", # Ye model free aur tagda hai
+            model="llama3-70b-8192", 
             temperature=0.7,
         )
         
@@ -76,15 +78,18 @@ def get_mistral_content(title, description):
             parts = text.split("||||")
             return parts[0].strip(), parts[1].strip()
         else:
-            return text, f"Check out this news: {title}!"
+            # Agar separator nahi mila to pura text bhej do (Debugging ke liye)
+            return text, "Check the text report!"
 
     except Exception as e:
-        print(f"⚠️ Mistral Error: {str(e)}")
-        return description, f"Breaking news on {title}"
+        # ⚠️ YAHAN HAI MAGIC: Asli Error Telegram par jayega
+        error_msg = str(e)
+        print(f"🔥 GROQ FAILURE: {error_msg}")
+        return f"⚠️ <b>GROQ ERROR:</b>\n{error_msg[:300]}", "System Error"
 
 async def generate_audio(text):
     try:
-        # Voice: GuyNeural (Funny/Casual)
+        # GuyNeural Voice
         communicate = edge_tts.Communicate(text, "en-US-GuyNeural")
         await communicate.save("update.mp3")
     except Exception as e:
@@ -92,7 +97,8 @@ async def generate_audio(text):
 
 def send_telegram(title, summary, img_url, prices):
     try:
-        caption = f"<b>🚨 {title}</b>\n\n{prices}\n\n📝 <b>The Scoop:</b>\n{summary}\n\n📢 <i>Sound On 🔊</i>"
+        # Caption with Debug Info
+        caption = f"<b>🚨 {title}</b>\n\n{prices}\n\n📝 <b>Report:</b>\n{summary}\n\n📢 <i>Llama-3 Power 🦙</i>"
         
         base_url = f"https://api.telegram.org/bot{TOKEN}"
         
@@ -108,7 +114,7 @@ def send_telegram(title, summary, img_url, prices):
         if os.path.exists("update.mp3"):
             with open("update.mp3", "rb") as audio:
                 files = {"audio": audio}
-                data = {"chat_id": CHAT_ID, "title": "🎙️ Mistral Take", "performer": "Crypto Bot"}
+                data = {"chat_id": CHAT_ID, "title": "🎙️ Crypto Update", "performer": "AI Anchor"}
                 requests.post(f"{base_url}/sendAudio", data=data, files=files)
             os.remove("update.mp3")
 
@@ -116,7 +122,7 @@ def send_telegram(title, summary, img_url, prices):
         print(f"⚠️ Telegram Error: {e}")
 
 def main():
-    print("📡 Starting Bot (Mistral Edition)...")
+    print("📡 Starting Bot (Llama 3 Debug)...")
     sent_links = []
     
     if os.path.exists("last_id.txt"):
@@ -142,7 +148,7 @@ def main():
                 if link not in sent_links:
                     print(f"Processing: {title[:20]}...")
                     prices = get_live_prices()
-                    summary, script = get_mistral_content(title, clean_desc)
+                    summary, script = get_groq_content(title, clean_desc)
                     asyncio.run(generate_audio(script))
                     send_telegram(title, summary, img_url, prices)
                     new_links.append(link)

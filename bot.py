@@ -47,23 +47,28 @@ def extract_image(description):
 
 def get_ai_content(title, description):
     """
-    Ye function AI se 2 cheezein mangega:
-    1. Lamba Written Summary
-    2. Ek Podcast Script (Audio ke liye)
+    AI ab Funny aur Detailed mode mein kaam karega.
     """
     try:
         prompt = f"""
-        You are a senior crypto analyst.
+        You are a witty, sarcastic, and energetic crypto news anchor (like a cool YouTuber).
         
-        Task 1: Write a detailed summary (80-100 words) of this news. Use bullet points for key details. Make it insightful.
-        Task 2: Write a short, conversational script (40 words) for a voice update. Start with "Hey Crypto Fam, here is the update...".
+        **Task 1 (The Text Post):** Write a comprehensive, long summary (around 150-200 words) of this news. 
+        - Make it professional but engaging. 
+        - Use Bullet points for key facts. 
+        - NO EXTERNAL LINKS.
         
-        Format your response exactly like this:
+        **Task 2 (The Voice Script):** Write a funny, conversational script (around 100-120 words) that explains the FULL story.
+        - Style: Use humor, rhetorical questions, and excitement. 
+        - Don't just read the headline, explain "Why this matters" in a fun way.
+        - Start with something punchy like "Hold your bags fam!" or "Guess what happened?".
+        
+        **Format:**
         [SUMMARY_START]
-        (Your detailed summary here)
+        (Detailed Text Summary)
         [SUMMARY_END]
         [SCRIPT_START]
-        (Your voice script here)
+        (Funny Voice Script)
         [SCRIPT_END]
         
         News: {title} - {description}
@@ -71,37 +76,37 @@ def get_ai_content(title, description):
         response = model.generate_content(prompt)
         text = response.text
         
-        # Parsing (Summary aur Script alag karna)
+        # Parsing
         try:
             summary = text.split("[SUMMARY_START]")[1].split("[SUMMARY_END]")[0].strip()
             script = text.split("[SCRIPT_START]")[1].split("[SCRIPT_END]")[0].strip()
         except IndexError:
-            # Agar AI format gadbad kare to fallback
             summary = description
-            script = f"Here is the latest update on {title}. Check the channel for details."
+            script = f"Hey everyone, here is the update on {title}. It looks like a big move for the market."
             
         return summary, script
     except Exception as e:
         print(f"⚠️ AI Error: {e}")
-        return description, f"Here is the latest update on {title}"
+        return description, f"Update on {title}"
 
 async def generate_audio(text):
-    """Text ko MP3 banayega (Male US Voice)"""
+    """Text ko Funny/Energetic Voice banayega"""
     try:
-        voice = "en-US-ChristopherNeural" # High quality male voice
+        # 'en-US-GuyNeural' thoda zyada energetic/casual voice hai Christopher se
+        voice = "en-US-GuyNeural" 
         communicate = edge_tts.Communicate(text, voice)
         await communicate.save("update.mp3")
     except Exception as e:
         print(f"⚠️ Audio Error: {e}")
 
-def send_telegram(title, link, summary, img_url, prices):
+def send_telegram(title, summary, img_url, prices):
     try:
-        # 1. Photo + Text Bhejo
-        caption = f"<b>🚨 {title}</b>\n\n{prices}\n\n📝 <b>Deep Dive:</b>\n{summary}\n\n🔗 <a href='{link}'>Read Full Report</a>"
+        # Link hata diya gaya hai. Sirf Summary aur Prices rahenge.
+        caption = f"<b>🚨 {title}</b>\n\n{prices}\n\n📝 <b>The Full Scoop:</b>\n{summary}\n\n📢 <i>Stay tuned for more!</i>"
         
-        # Telegram API URL
         base_url = f"https://api.telegram.org/bot{TOKEN}"
         
+        # 1. Photo Bhejo
         if img_url:
             payload = {"chat_id": CHAT_ID, "photo": img_url, "caption": caption, "parse_mode": "HTML"}
             requests.post(f"{base_url}/sendPhoto", json=payload)
@@ -109,19 +114,20 @@ def send_telegram(title, link, summary, img_url, prices):
             payload = {"chat_id": CHAT_ID, "text": caption, "parse_mode": "HTML"}
             requests.post(f"{base_url}/sendMessage", json=payload)
 
-        # 2. Audio Bhejo (Voice Note)
+        # 2. Audio Bhejo (Funny Anchor)
         if os.path.exists("update.mp3"):
             with open("update.mp3", "rb") as audio:
                 files = {"audio": audio}
-                data = {"chat_id": CHAT_ID, "title": "Crypto Brief", "performer": "AI Analyst"}
+                # Title mein "Funny Take" likh diya taaki user play kare
+                data = {"chat_id": CHAT_ID, "title": "🎙️ Listen: The Funny Truth", "performer": "Crypto Bro AI"}
                 requests.post(f"{base_url}/sendAudio", data=data, files=files)
-            os.remove("update.mp3") # Delete after sending
+            os.remove("update.mp3")
 
     except Exception as e:
         print(f"⚠️ Telegram Error: {e}")
 
 def main():
-    print("📡 Starting Bot (News + Prices + Voice)...")
+    print("📡 Starting Bot (Funny Edition)...")
     sent_links = []
     
     if os.path.exists("last_id.txt"):
@@ -137,7 +143,7 @@ def main():
             items = root.find("channel").findall("item")
             new_links = []
             
-            # Sirf Top 3 news (Voice generation takes time)
+            # Top 3 News
             for item in reversed(items[:3]):
                 title = item.find("title").text
                 link = item.find("link").text
@@ -147,19 +153,19 @@ def main():
                 img_url = extract_image(raw_desc)
                 
                 if link not in sent_links:
-                    print(f"🎙️ Processing: {title[:20]}...")
+                    print(f"🎙️ Roasting: {title[:20]}...")
                     
-                    # 1. Live Prices
+                    # 1. Prices
                     prices = get_live_prices()
                     
-                    # 2. AI Content
+                    # 2. AI Magic (Funny)
                     summary, script = get_ai_content(title, clean_desc)
                     
-                    # 3. Generate Audio
+                    # 3. Audio Generation
                     asyncio.run(generate_audio(script))
                     
-                    # 4. Send
-                    send_telegram(title, link, summary, img_url, prices)
+                    # 4. Send (Bina Link ke)
+                    send_telegram(title, summary, img_url, prices)
                     
                     new_links.append(link)
                     time.sleep(5)

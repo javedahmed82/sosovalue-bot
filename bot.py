@@ -13,9 +13,22 @@ CHAT_ID = os.environ.get("CHAT_ID")
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 RSS_URL = "https://cointelegraph.com/rss"
 
-# AI Setup
-genai.configure(api_key=GEMINI_API_KEY)
-model = genai.GenerativeModel('gemini-1.5-flash')
+# --- AI SETUP (WITH SAFETY OFF) ---
+if not GEMINI_API_KEY:
+    print("❌ CRITICAL ERROR: Gemini API Key is MISSING in Secrets!")
+
+try:
+    genai.configure(api_key=GEMINI_API_KEY)
+    # Safety Filters ko OFF kar rahe hain taaki wo news block na kare
+    safety_settings = [
+        {"category": "HARM_CATEGORY_HARASSMENT", "threshold": "BLOCK_NONE"},
+        {"category": "HARM_CATEGORY_HATE_SPEECH", "threshold": "BLOCK_NONE"},
+        {"category": "HARM_CATEGORY_SEXUALLY_EXPLICIT", "threshold": "BLOCK_NONE"},
+        {"category": "HARM_CATEGORY_DANGEROUS_CONTENT", "threshold": "BLOCK_NONE"},
+    ]
+    model = genai.GenerativeModel('gemini-1.5-flash', safety_settings=safety_settings)
+except Exception as e:
+    print(f"❌ AI Configuration Error: {e}")
 
 # --- FUNCTIONS ---
 
@@ -42,57 +55,42 @@ def extract_image(description):
 
 def get_ai_content(title, description):
     """
-    Ab ye function fail nahi hoga. Simple separation use karega.
+    Ab ye function Safety Filters bypass karega.
     """
     try:
-        # Prompt ko force kiya hai ki wo EXPAND kare (kyunki RSS input chota hota hai)
-        prompt = f"""
-        You are a sarcastic, funny, and smart crypto news anchor (like a YouTuber).
-        The input news is short, so use your internal knowledge to EXPAND on it.
-        
-        Input News: {title} - {description}
+        if not GEMINI_API_KEY:
+            return description, f"Hey, here is the update on {title}"
 
-        Task 1: Write a detailed summary (120-150 words). 
-        - Explain the background and why this matters. 
-        - Use emojis and bullet points. 
-        - Tone: Professional but engaging.
+        prompt = f"""
+        You are a funny, energetic, and sarcastic crypto news anchor.
         
-        Task 2: Write a Voice Script (100+ words). 
-        - Do NOT just read the headline. Tell a story.
-        - Start with a funny hook (e.g., "Oh boy, here we go again...").
-        - Explain the news simply to a friend.
+        Input: {title} - {description}
         
-        IMPORTANT: Separate Task 1 and Task 2 with exactly four pipes "||||".
+        Task 1: Summarize this news in 150 words. Be detailed, use bullet points, and explain WHY it matters.
+        Task 2: Write a funny voice script (100 words). Start with "Listen up Crypto Fam!". Don't just read the title, explain the drama!
         
-        Output Format:
-        (Your Detailed Summary Here)
-        ||||
-        (Your Voice Script Here)
+        Use exactly "||||" to separate Task 1 and Task 2.
         """
         
         response = model.generate_content(prompt)
         text = response.text
         
-        # Simple Splitter (Zada reliable hai)
         if "||||" in text:
             parts = text.split("||||")
             summary = parts[0].strip()
             script = parts[1].strip()
         else:
-            # Agar AI separator bhool gaya, to pura text summary maan lenge
             summary = text
-            script = f"Hey guys, check this out. {title}. It's a big update, read the text for more!"
+            script = f"Wow, big news coming in! {title}. Check the text for details!"
 
         return summary, script
 
     except Exception as e:
-        print(f"⚠️ AI Error: {e}")
-        # Fallback agar AI bilkul hi mar jaye
-        return f"Could not generate summary. News: {title}", f"Breaking news on {title}"
+        print(f"⚠️ AI Generation Error: {e}") # Ye logs me dikhega
+        return description, f"Breaking news update on {title}"
 
 async def generate_audio(text):
     try:
-        # Voice: GuyNeural (Funny/Casual tone ke liye best)
         communicate = edge_tts.Communicate(text, "en-US-GuyNeural")
         await communicate.save("update.mp3")
     except Exception as e:
@@ -100,24 +98,19 @@ async def generate_audio(text):
 
 def send_telegram(title, summary, img_url, prices):
     try:
-        # Caption Message
         caption = f"<b>🚨 {title}</b>\n\n{prices}\n\n📝 <b>The Full Scoop:</b>\n{summary}\n\n📢 <i>Sound On for the Roast! 🔊</i>"
         
         base_url = f"https://api.telegram.org/bot{TOKEN}"
         
-        # 1. Photo Bhejo
         if img_url:
-            # Caption limit hoti hai (1024 chars). Agar summary bahut badi hai to trim kar denge.
             if len(caption) > 1000:
-                caption = caption[:1000] + "... (Read more in audio)"
-            
+                caption = caption[:1000] + "... (Audio suno!)"
             payload = {"chat_id": CHAT_ID, "photo": img_url, "caption": caption, "parse_mode": "HTML"}
             requests.post(f"{base_url}/sendPhoto", json=payload)
         else:
             payload = {"chat_id": CHAT_ID, "text": caption, "parse_mode": "HTML"}
             requests.post(f"{base_url}/sendMessage", json=payload)
 
-        # 2. Audio Bhejo
         if os.path.exists("update.mp3"):
             with open("update.mp3", "rb") as audio:
                 files = {"audio": audio}
@@ -129,7 +122,7 @@ def send_telegram(title, summary, img_url, prices):
         print(f"⚠️ Telegram Error: {e}")
 
 def main():
-    print("📡 Starting Bot (Robust Version)...")
+    print("📡 Starting Bot (Safety OFF Mode)...")
     sent_links = []
     
     if os.path.exists("last_id.txt"):
@@ -145,7 +138,6 @@ def main():
             items = root.find("channel").findall("item")
             new_links = []
             
-            # Top 3 News Check
             for item in reversed(items[:3]):
                 title = item.find("title").text
                 link = item.find("link").text
@@ -156,12 +148,10 @@ def main():
                 
                 if link not in sent_links:
                     print(f"Processing: {title[:20]}...")
-                    
                     prices = get_live_prices()
                     summary, script = get_ai_content(title, clean_desc)
                     asyncio.run(generate_audio(script))
                     send_telegram(title, summary, img_url, prices)
-                    
                     new_links.append(link)
                     time.sleep(5)
             

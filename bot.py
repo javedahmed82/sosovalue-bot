@@ -3,46 +3,21 @@ import requests
 import xml.etree.ElementTree as ET
 import time
 import re
-import google.generativeai as genai
+from groq import Groq # <--- Google gaya, Mistral aaya
 import asyncio
 import edge_tts
 
 # --- CONFIG ---
 TOKEN = os.environ.get("BOT_TOKEN")
 CHAT_ID = os.environ.get("CHAT_ID")
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
+GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
 RSS_URL = "https://cointelegraph.com/rss"
 
-# --- SMART MODEL SELECTOR ---
-def configure_ai():
-    if not GEMINI_API_KEY:
-        return None, "❌ API Key Missing"
-    
-    genai.configure(api_key=GEMINI_API_KEY)
-    
-    # Try specific models in order of preference
-    model_names = [
-        'gemini-1.5-flash', 
-        'gemini-1.5-flash-latest', 
-        'gemini-pro', 
-        'gemini-1.0-pro'
-    ]
-    
-    for name in model_names:
-        try:
-            model = genai.GenerativeModel(name)
-            # Test generation to confirm it works
-            model.generate_content("Test")
-            print(f"✅ Selected Model: {name}")
-            return model, None
-        except Exception as e:
-            print(f"⚠️ Failed to load {name}: {e}")
-            continue
-            
-    return None, "❌ No working Gemini model found. Check API Key/Region."
-
-# Initialize AI
-model, ai_error = configure_ai()
+# --- MISTRAL CLIENT SETUP ---
+if GROQ_API_KEY:
+    client = Groq(api_key=GROQ_API_KEY)
+else:
+    client = None
 
 # --- FUNCTIONS ---
 
@@ -67,41 +42,49 @@ def extract_image(description):
     img_match = re.search(r'src="(.*?)"', description)
     return img_match.group(1) if img_match else None
 
-def get_ai_content(title, description):
-    # 1. Agar AI load hi nahi hua to Error bhejo
-    if model is None:
-        return f"⚠️ SYSTEM ERROR: {ai_error}", "Sorry, my brain is offline."
+def get_mistral_content(title, description):
+    """
+    Ye function Mistral (Mixtral-8x7b) use karega jo ek powerhouse hai.
+    """
+    if not client:
+        return description, f"Here is the update on {title}"
 
     try:
         prompt = f"""
-        Act as a funny, sarcastic crypto news anchor.
+        Act as a funny, high-energy crypto YouTuber.
         
         News: {title} - {description}
         
-        Task 1: Detailed Summary (150 words). Bullet points. Explain "Why it matters".
-        Task 2: Funny Voice Script (100 words). Conversational style.
+        Task 1: Write a detailed summary (150 words). Use Bullet points. Explain the 'So What?'.
+        Task 2: Write a funny Voice Script (100 words). Be conversational. Start with "Yo Crypto Fam!".
         
-        Separator: ||||
+        IMPORTANT: Separate Task 1 and Task 2 with exactly "||||".
         """
         
-        # Generation with timeout
-        response = model.generate_content(prompt)
-        text = response.text
+        # Mistral Call via Groq
+        chat_completion = client.chat.completions.create(
+            messages=[
+                {"role": "user", "content": prompt}
+            ],
+            model="mixtral-8x7b-32768", # Ye model free aur tagda hai
+            temperature=0.7,
+        )
+        
+        text = chat_completion.choices[0].message.content
         
         if "||||" in text:
             parts = text.split("||||")
             return parts[0].strip(), parts[1].strip()
         else:
-            return text, f"Updates on {title}. Check the text!"
+            return text, f"Check out this news: {title}!"
 
     except Exception as e:
-        # 2. Agar Generation fail hui to ASLI ERROR bhejo
-        real_error = str(e)
-        print(f"🔥 GENERATION ERROR: {real_error}")
-        return f"⚠️ AI FAILED: {real_error}", "I tried to read the news but failed."
+        print(f"⚠️ Mistral Error: {str(e)}")
+        return description, f"Breaking news on {title}"
 
 async def generate_audio(text):
     try:
+        # Voice: GuyNeural (Funny/Casual)
         communicate = edge_tts.Communicate(text, "en-US-GuyNeural")
         await communicate.save("update.mp3")
     except Exception as e:
@@ -125,7 +108,7 @@ def send_telegram(title, summary, img_url, prices):
         if os.path.exists("update.mp3"):
             with open("update.mp3", "rb") as audio:
                 files = {"audio": audio}
-                data = {"chat_id": CHAT_ID, "title": "🎙️ AI Update", "performer": "Crypto Bot"}
+                data = {"chat_id": CHAT_ID, "title": "🎙️ Mistral Take", "performer": "Crypto Bot"}
                 requests.post(f"{base_url}/sendAudio", data=data, files=files)
             os.remove("update.mp3")
 
@@ -133,7 +116,7 @@ def send_telegram(title, summary, img_url, prices):
         print(f"⚠️ Telegram Error: {e}")
 
 def main():
-    print("📡 Starting Bot (Auto-Select Mode)...")
+    print("📡 Starting Bot (Mistral Edition)...")
     sent_links = []
     
     if os.path.exists("last_id.txt"):
@@ -159,7 +142,7 @@ def main():
                 if link not in sent_links:
                     print(f"Processing: {title[:20]}...")
                     prices = get_live_prices()
-                    summary, script = get_ai_content(title, clean_desc)
+                    summary, script = get_mistral_content(title, clean_desc)
                     asyncio.run(generate_audio(script))
                     send_telegram(title, summary, img_url, prices)
                     new_links.append(link)

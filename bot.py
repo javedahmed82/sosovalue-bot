@@ -13,13 +13,36 @@ CHAT_ID = os.environ.get("CHAT_ID")
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 RSS_URL = "https://cointelegraph.com/rss"
 
-# --- AI CONFIG (Universal Model) ---
-if GEMINI_API_KEY:
+# --- SMART MODEL SELECTOR ---
+def configure_ai():
+    if not GEMINI_API_KEY:
+        return None, "❌ API Key Missing"
+    
     genai.configure(api_key=GEMINI_API_KEY)
-    # Fix: 'gemini-1.5-flash' hata kar 'gemini-pro' kar diya (Ye hamesha chalta hai)
-    model = genai.GenerativeModel('gemini-pro')
-else:
-    model = None
+    
+    # Try specific models in order of preference
+    model_names = [
+        'gemini-1.5-flash', 
+        'gemini-1.5-flash-latest', 
+        'gemini-pro', 
+        'gemini-1.0-pro'
+    ]
+    
+    for name in model_names:
+        try:
+            model = genai.GenerativeModel(name)
+            # Test generation to confirm it works
+            model.generate_content("Test")
+            print(f"✅ Selected Model: {name}")
+            return model, None
+        except Exception as e:
+            print(f"⚠️ Failed to load {name}: {e}")
+            continue
+            
+    return None, "❌ No working Gemini model found. Check API Key/Region."
+
+# Initialize AI
+model, ai_error = configure_ai()
 
 # --- FUNCTIONS ---
 
@@ -45,24 +68,23 @@ def extract_image(description):
     return img_match.group(1) if img_match else None
 
 def get_ai_content(title, description):
-    """
-    Ab ye function Stable Model (gemini-pro) use karega.
-    """
-    if not GEMINI_API_KEY:
-        return description, f"Here is the update on {title}"
+    # 1. Agar AI load hi nahi hua to Error bhejo
+    if model is None:
+        return f"⚠️ SYSTEM ERROR: {ai_error}", "Sorry, my brain is offline."
 
     try:
         prompt = f"""
-        Act as a funny, sarcastic, and smart crypto news anchor.
+        Act as a funny, sarcastic crypto news anchor.
         
-        News Input: {title} - {description}
+        News: {title} - {description}
         
-        Task 1: Write a detailed summary (150 words) with bullet points. Explain 'Why this matters'.
-        Task 2: Write a funny Voice Script (100 words) for a podcast. Don't just read the headline, tell the story!
+        Task 1: Detailed Summary (150 words). Bullet points. Explain "Why it matters".
+        Task 2: Funny Voice Script (100 words). Conversational style.
         
-        IMPORTANT: Separate Task 1 and Task 2 with exactly "||||".
+        Separator: ||||
         """
         
+        # Generation with timeout
         response = model.generate_content(prompt)
         text = response.text
         
@@ -70,16 +92,16 @@ def get_ai_content(title, description):
             parts = text.split("||||")
             return parts[0].strip(), parts[1].strip()
         else:
-            return text, f"Hey guys, big update on {title}! Check the message for details."
+            return text, f"Updates on {title}. Check the text!"
 
     except Exception as e:
-        print(f"⚠️ AI Error: {str(e)}")
-        # Fallback agar phir bhi error aaye
-        return description, f"Breaking news on {title}"
+        # 2. Agar Generation fail hui to ASLI ERROR bhejo
+        real_error = str(e)
+        print(f"🔥 GENERATION ERROR: {real_error}")
+        return f"⚠️ AI FAILED: {real_error}", "I tried to read the news but failed."
 
 async def generate_audio(text):
     try:
-        # Voice ko 'GuyNeural' rakha hai (Funny tone ke liye)
         communicate = edge_tts.Communicate(text, "en-US-GuyNeural")
         await communicate.save("update.mp3")
     except Exception as e:
@@ -87,14 +109,13 @@ async def generate_audio(text):
 
 def send_telegram(title, summary, img_url, prices):
     try:
-        # Message Format
-        caption = f"<b>🚨 {title}</b>\n\n{prices}\n\n📝 <b>The Full Scoop:</b>\n{summary}\n\n📢 <i>Sound On for the Roast! 🔊</i>"
+        caption = f"<b>🚨 {title}</b>\n\n{prices}\n\n📝 <b>The Scoop:</b>\n{summary}\n\n📢 <i>Sound On 🔊</i>"
         
         base_url = f"https://api.telegram.org/bot{TOKEN}"
         
         if img_url:
             if len(caption) > 1000:
-                caption = caption[:1000] + "... (Listen to Audio)"
+                caption = caption[:1000] + "..."
             payload = {"chat_id": CHAT_ID, "photo": img_url, "caption": caption, "parse_mode": "HTML"}
             requests.post(f"{base_url}/sendPhoto", json=payload)
         else:
@@ -104,7 +125,7 @@ def send_telegram(title, summary, img_url, prices):
         if os.path.exists("update.mp3"):
             with open("update.mp3", "rb") as audio:
                 files = {"audio": audio}
-                data = {"chat_id": CHAT_ID, "title": "🎙️ The Funny Take", "performer": "AI Anchor"}
+                data = {"chat_id": CHAT_ID, "title": "🎙️ AI Update", "performer": "Crypto Bot"}
                 requests.post(f"{base_url}/sendAudio", data=data, files=files)
             os.remove("update.mp3")
 
@@ -112,7 +133,7 @@ def send_telegram(title, summary, img_url, prices):
         print(f"⚠️ Telegram Error: {e}")
 
 def main():
-    print("📡 Starting Bot (Gemini Pro Edition)...")
+    print("📡 Starting Bot (Auto-Select Mode)...")
     sent_links = []
     
     if os.path.exists("last_id.txt"):
@@ -132,7 +153,6 @@ def main():
                 title = item.find("title").text
                 link = item.find("link").text
                 raw_desc = item.find("description").text or ""
-                
                 clean_desc = clean_html(raw_desc)
                 img_url = extract_image(raw_desc)
                 

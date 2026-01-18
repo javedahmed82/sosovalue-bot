@@ -72,8 +72,14 @@ def get_ai_content(title, description):
         text = response.text
         
         # Parsing (Summary aur Script alag karna)
-        summary = text.split("[SUMMARY_START]")[1].split("[SUMMARY_END]")[0].strip()
-        script = text.split("[SCRIPT_START]")[1].split("[SCRIPT_END]")[0].strip()
+        try:
+            summary = text.split("[SUMMARY_START]")[1].split("[SUMMARY_END]")[0].strip()
+            script = text.split("[SCRIPT_START]")[1].split("[SCRIPT_END]")[0].strip()
+        except IndexError:
+            # Agar AI format gadbad kare to fallback
+            summary = description
+            script = f"Here is the latest update on {title}. Check the channel for details."
+            
         return summary, script
     except Exception as e:
         print(f"⚠️ AI Error: {e}")
@@ -81,9 +87,12 @@ def get_ai_content(title, description):
 
 async def generate_audio(text):
     """Text ko MP3 banayega (Male US Voice)"""
-    voice = "en-US-ChristopherNeural" # High quality male voice
-    communicate = edge_tts.Communicate(text, voice)
-    await communicate.save("update.mp3")
+    try:
+        voice = "en-US-ChristopherNeural" # High quality male voice
+        communicate = edge_tts.Communicate(text, voice)
+        await communicate.save("update.mp3")
+    except Exception as e:
+        print(f"⚠️ Audio Error: {e}")
 
 def send_telegram(title, link, summary, img_url, prices):
     try:
@@ -161,33 +170,6 @@ def main():
                 
     except Exception as e:
         print(f"⚠️ Critical Error: {e}")
-
-if __name__ == "__main__":
-    main()
-            
-            new_links = []
-            
-            # Loop
-            for item in reversed(items[:10]):
-                title = item.find("title").text
-                link = item.find("link").text
-                
-                if link not in sent_links:
-                    print(f"🔥 New News: {title[:30]}...")
-                    send_telegram(title, link)
-                    new_links.append(link)
-                    time.sleep(1)
-            
-            # Save History
-            updated_history = sent_links + new_links
-            with open("last_id.txt", "w", encoding="utf-8") as f:
-                f.write("\n".join(updated_history[-50:]))
-                
-        else:
-            print(f"❌ Error Fetching RSS: {response.status_code}")
-
-    except Exception as e:
-        print(f"⚠️ Error: {e}")
 
 if __name__ == "__main__":
     main()

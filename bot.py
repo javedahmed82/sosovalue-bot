@@ -20,20 +20,15 @@ model = genai.GenerativeModel('gemini-1.5-flash')
 # --- FUNCTIONS ---
 
 def get_live_prices():
-    """CoinGecko se taaza bhaav layega"""
     try:
         url = "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,solana,binancecoin&vs_currencies=usd"
         r = requests.get(url, timeout=5)
         data = r.json()
-        
-        prices = (
-            f"💰 <b>Market Watch:</b>\n"
-            f"• BTC: ${data['bitcoin']['usd']:,}\n"
-            f"• ETH: ${data['ethereum']['usd']:,}\n"
-            f"• BNB: ${data['binancecoin']['usd']:,}\n"
-            f"• SOL: ${data['solana']['usd']:,}"
-        )
-        return prices
+        return (f"💰 <b>Market Watch:</b>\n"
+                f"• BTC: ${data['bitcoin']['usd']:,}\n"
+                f"• ETH: ${data['ethereum']['usd']:,}\n"
+                f"• BNB: ${data['binancecoin']['usd']:,}\n"
+                f"• SOL: ${data['solana']['usd']:,}")
     except:
         return "💰 Prices currently unavailable."
 
@@ -47,79 +42,86 @@ def extract_image(description):
 
 def get_ai_content(title, description):
     """
-    AI ab Funny aur Detailed mode mein kaam karega.
+    Ab ye function fail nahi hoga. Simple separation use karega.
     """
     try:
+        # Prompt ko force kiya hai ki wo EXPAND kare (kyunki RSS input chota hota hai)
         prompt = f"""
-        You are a witty, sarcastic, and energetic crypto news anchor (like a cool YouTuber).
+        You are a sarcastic, funny, and smart crypto news anchor (like a YouTuber).
+        The input news is short, so use your internal knowledge to EXPAND on it.
         
-        **Task 1 (The Text Post):** Write a comprehensive, long summary (around 150-200 words) of this news. 
-        - Make it professional but engaging. 
-        - Use Bullet points for key facts. 
-        - NO EXTERNAL LINKS.
+        Input News: {title} - {description}
+
+        Task 1: Write a detailed summary (120-150 words). 
+        - Explain the background and why this matters. 
+        - Use emojis and bullet points. 
+        - Tone: Professional but engaging.
         
-        **Task 2 (The Voice Script):** Write a funny, conversational script (around 100-120 words) that explains the FULL story.
-        - Style: Use humor, rhetorical questions, and excitement. 
-        - Don't just read the headline, explain "Why this matters" in a fun way.
-        - Start with something punchy like "Hold your bags fam!" or "Guess what happened?".
+        Task 2: Write a Voice Script (100+ words). 
+        - Do NOT just read the headline. Tell a story.
+        - Start with a funny hook (e.g., "Oh boy, here we go again...").
+        - Explain the news simply to a friend.
         
-        **Format:**
-        [SUMMARY_START]
-        (Detailed Text Summary)
-        [SUMMARY_END]
-        [SCRIPT_START]
-        (Funny Voice Script)
-        [SCRIPT_END]
+        IMPORTANT: Separate Task 1 and Task 2 with exactly four pipes "||||".
         
-        News: {title} - {description}
+        Output Format:
+        (Your Detailed Summary Here)
+        ||||
+        (Your Voice Script Here)
         """
+        
         response = model.generate_content(prompt)
         text = response.text
         
-        # Parsing
-        try:
-            summary = text.split("[SUMMARY_START]")[1].split("[SUMMARY_END]")[0].strip()
-            script = text.split("[SCRIPT_START]")[1].split("[SCRIPT_END]")[0].strip()
-        except IndexError:
-            summary = description
-            script = f"Hey everyone, here is the update on {title}. It looks like a big move for the market."
-            
+        # Simple Splitter (Zada reliable hai)
+        if "||||" in text:
+            parts = text.split("||||")
+            summary = parts[0].strip()
+            script = parts[1].strip()
+        else:
+            # Agar AI separator bhool gaya, to pura text summary maan lenge
+            summary = text
+            script = f"Hey guys, check this out. {title}. It's a big update, read the text for more!"
+
         return summary, script
+
     except Exception as e:
         print(f"⚠️ AI Error: {e}")
-        return description, f"Update on {title}"
+        # Fallback agar AI bilkul hi mar jaye
+        return f"Could not generate summary. News: {title}", f"Breaking news on {title}"
 
 async def generate_audio(text):
-    """Text ko Funny/Energetic Voice banayega"""
     try:
-        # 'en-US-GuyNeural' thoda zyada energetic/casual voice hai Christopher se
-        voice = "en-US-GuyNeural" 
-        communicate = edge_tts.Communicate(text, voice)
+        # Voice: GuyNeural (Funny/Casual tone ke liye best)
+        communicate = edge_tts.Communicate(text, "en-US-GuyNeural")
         await communicate.save("update.mp3")
     except Exception as e:
         print(f"⚠️ Audio Error: {e}")
 
 def send_telegram(title, summary, img_url, prices):
     try:
-        # Link hata diya gaya hai. Sirf Summary aur Prices rahenge.
-        caption = f"<b>🚨 {title}</b>\n\n{prices}\n\n📝 <b>The Full Scoop:</b>\n{summary}\n\n📢 <i>Stay tuned for more!</i>"
+        # Caption Message
+        caption = f"<b>🚨 {title}</b>\n\n{prices}\n\n📝 <b>The Full Scoop:</b>\n{summary}\n\n📢 <i>Sound On for the Roast! 🔊</i>"
         
         base_url = f"https://api.telegram.org/bot{TOKEN}"
         
         # 1. Photo Bhejo
         if img_url:
+            # Caption limit hoti hai (1024 chars). Agar summary bahut badi hai to trim kar denge.
+            if len(caption) > 1000:
+                caption = caption[:1000] + "... (Read more in audio)"
+            
             payload = {"chat_id": CHAT_ID, "photo": img_url, "caption": caption, "parse_mode": "HTML"}
             requests.post(f"{base_url}/sendPhoto", json=payload)
         else:
             payload = {"chat_id": CHAT_ID, "text": caption, "parse_mode": "HTML"}
             requests.post(f"{base_url}/sendMessage", json=payload)
 
-        # 2. Audio Bhejo (Funny Anchor)
+        # 2. Audio Bhejo
         if os.path.exists("update.mp3"):
             with open("update.mp3", "rb") as audio:
                 files = {"audio": audio}
-                # Title mein "Funny Take" likh diya taaki user play kare
-                data = {"chat_id": CHAT_ID, "title": "🎙️ Listen: The Funny Truth", "performer": "Crypto Bro AI"}
+                data = {"chat_id": CHAT_ID, "title": "🎙️ The Funny Take", "performer": "AI Anchor"}
                 requests.post(f"{base_url}/sendAudio", data=data, files=files)
             os.remove("update.mp3")
 
@@ -127,7 +129,7 @@ def send_telegram(title, summary, img_url, prices):
         print(f"⚠️ Telegram Error: {e}")
 
 def main():
-    print("📡 Starting Bot (Funny Edition)...")
+    print("📡 Starting Bot (Robust Version)...")
     sent_links = []
     
     if os.path.exists("last_id.txt"):
@@ -143,7 +145,7 @@ def main():
             items = root.find("channel").findall("item")
             new_links = []
             
-            # Top 3 News
+            # Top 3 News Check
             for item in reversed(items[:3]):
                 title = item.find("title").text
                 link = item.find("link").text
@@ -153,18 +155,11 @@ def main():
                 img_url = extract_image(raw_desc)
                 
                 if link not in sent_links:
-                    print(f"🎙️ Roasting: {title[:20]}...")
+                    print(f"Processing: {title[:20]}...")
                     
-                    # 1. Prices
                     prices = get_live_prices()
-                    
-                    # 2. AI Magic (Funny)
                     summary, script = get_ai_content(title, clean_desc)
-                    
-                    # 3. Audio Generation
                     asyncio.run(generate_audio(script))
-                    
-                    # 4. Send (Bina Link ke)
                     send_telegram(title, summary, img_url, prices)
                     
                     new_links.append(link)

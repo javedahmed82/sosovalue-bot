@@ -13,10 +13,11 @@ CHAT_ID = os.environ.get("CHAT_ID")
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 RSS_URL = "https://cointelegraph.com/rss"
 
-# AI Config
+# --- AI CONFIG (Universal Model) ---
 if GEMINI_API_KEY:
     genai.configure(api_key=GEMINI_API_KEY)
-    model = genai.GenerativeModel('gemini-1.5-flash')
+    # Fix: 'gemini-1.5-flash' hata kar 'gemini-pro' kar diya (Ye hamesha chalta hai)
+    model = genai.GenerativeModel('gemini-pro')
 else:
     model = None
 
@@ -45,22 +46,21 @@ def extract_image(description):
 
 def get_ai_content(title, description):
     """
-    DEBUG MODE: Error ko chupayega nahi, seedha bhejega.
+    Ab ye function Stable Model (gemini-pro) use karega.
     """
-    # 1. Check agar Key hi nahi hai
     if not GEMINI_API_KEY:
-        error_msg = "❌ Error: GEMINI_API_KEY Secrets me missing hai!"
-        return error_msg, "I cannot speak because the API Key is missing."
+        return description, f"Here is the update on {title}"
 
     try:
         prompt = f"""
-        Act as a funny crypto news anchor.
-        News: {title} - {description}
+        Act as a funny, sarcastic, and smart crypto news anchor.
         
-        Task 1: Detailed Summary (150 words).
-        Task 2: Funny Voice Script (100 words).
+        News Input: {title} - {description}
         
-        Separator: ||||
+        Task 1: Write a detailed summary (150 words) with bullet points. Explain 'Why this matters'.
+        Task 2: Write a funny Voice Script (100 words) for a podcast. Don't just read the headline, tell the story!
+        
+        IMPORTANT: Separate Task 1 and Task 2 with exactly "||||".
         """
         
         response = model.generate_content(prompt)
@@ -70,16 +70,16 @@ def get_ai_content(title, description):
             parts = text.split("||||")
             return parts[0].strip(), parts[1].strip()
         else:
-            return text, "Hey, check this news out!"
+            return text, f"Hey guys, big update on {title}! Check the message for details."
 
     except Exception as e:
-        # YAHAN HAI MAGIC: Asli Error Telegram par dikhega
-        error_message = f"⚠️ AI ERROR (Screenshot bhejo): {str(e)}"
-        print(error_message)
-        return error_message, f"I encountered an error: {str(e)}"
+        print(f"⚠️ AI Error: {str(e)}")
+        # Fallback agar phir bhi error aaye
+        return description, f"Breaking news on {title}"
 
 async def generate_audio(text):
     try:
+        # Voice ko 'GuyNeural' rakha hai (Funny tone ke liye)
         communicate = edge_tts.Communicate(text, "en-US-GuyNeural")
         await communicate.save("update.mp3")
     except Exception as e:
@@ -87,14 +87,14 @@ async def generate_audio(text):
 
 def send_telegram(title, summary, img_url, prices):
     try:
-        # Caption me ab Error dikhega agar aaya to
-        caption = f"<b>🚨 {title}</b>\n\n{prices}\n\n📝 <b>AI Report:</b>\n{summary}\n\n📢 <i>Debug Mode On</i>"
+        # Message Format
+        caption = f"<b>🚨 {title}</b>\n\n{prices}\n\n📝 <b>The Full Scoop:</b>\n{summary}\n\n📢 <i>Sound On for the Roast! 🔊</i>"
         
         base_url = f"https://api.telegram.org/bot{TOKEN}"
         
         if img_url:
             if len(caption) > 1000:
-                caption = caption[:1000] + "..."
+                caption = caption[:1000] + "... (Listen to Audio)"
             payload = {"chat_id": CHAT_ID, "photo": img_url, "caption": caption, "parse_mode": "HTML"}
             requests.post(f"{base_url}/sendPhoto", json=payload)
         else:
@@ -104,7 +104,7 @@ def send_telegram(title, summary, img_url, prices):
         if os.path.exists("update.mp3"):
             with open("update.mp3", "rb") as audio:
                 files = {"audio": audio}
-                data = {"chat_id": CHAT_ID, "title": "🎙️ AI Voice", "performer": "Debug Bot"}
+                data = {"chat_id": CHAT_ID, "title": "🎙️ The Funny Take", "performer": "AI Anchor"}
                 requests.post(f"{base_url}/sendAudio", data=data, files=files)
             os.remove("update.mp3")
 
@@ -112,7 +112,7 @@ def send_telegram(title, summary, img_url, prices):
         print(f"⚠️ Telegram Error: {e}")
 
 def main():
-    print("📡 Starting Debug Bot...")
+    print("📡 Starting Bot (Gemini Pro Edition)...")
     sent_links = []
     
     if os.path.exists("last_id.txt"):

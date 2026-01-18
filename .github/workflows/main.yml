@@ -3,7 +3,7 @@ name: Run Crypto Bot
 on:
   schedule:
     - cron: '*/10 * * * *' # Har 10 minute mein chalega
-  workflow_dispatch:       # Manual run button ke liye
+  workflow_dispatch:       # Manual Run button ke liye
 
 jobs:
   run-bot:
@@ -20,16 +20,16 @@ jobs:
         with:
           python-version: '3.9'
 
-      # Yahan hum naye tools install kar rahe hain (AI + Voice)
+      # Yahan humne 'google-generativeai' hata kar 'groq' daal diya hai
       - name: Install dependencies
-        run: pip install requests google-generativeai edge-tts
+        run: pip install requests groq edge-tts
 
       - name: Run Script
         env:
-          # Tijori se chaabiyan nikal kar script ko dena
+          # Tijori se chaabiyan nikalna
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }} # <--- Ye Naya Hai
         run: python bot.py
 
       - name: Update Memory (last_id.txt)

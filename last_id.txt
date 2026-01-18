@@ -16,3 +16,4 @@ https://cointelegraph.com/news/ethereum-validator-exit-queue-hits-zero-as-stakin
 https://cointelegraph.com/news/china-led-cbdc-mbridge-55b-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/hacked-crypto-projects-never-fully-recover?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/crypto-decentralization-promise-interoperability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/vitalik-buterin-ethereum-garbage-collection-protocol-bloat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

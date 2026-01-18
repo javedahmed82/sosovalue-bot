@@ -43,25 +43,38 @@ def extract_image(description):
 
 def get_groq_content(title, description):
     """
-    UPDATED MODEL: llama-3.3-70b-versatile (Latest & Supported)
+    MODEL: llama-3.3-70b-versatile
+    STYLE: Money Maker AI (High Energy, Emojis, Long Audio)
     """
     if not client:
         return f"❌ Error: GROQ_API_KEY Missing!", "System Failure."
 
     try:
+        # Prompt ko update kiya hai 1 Minute Audio aur Emojis ke liye
         prompt = f"""
-        Act as a funny crypto news anchor.
+        Act as a high-energy, successful crypto investor running a channel called "Money Maker AI".
         News: {title} - {description}
         
-        Task 1: Detailed Summary (150 words). Bullet points. Explain "Why it matters".
-        Task 2: Funny Voice Script (100 words). Conversational style. Start with "Yo Crypto Fam!".
+        Task 1: WRITTEN REPORT (Make it pop with emojis! 🔥)
+        - Write a 150-word summary.
+        - Use Bullet points with Emojis for every single point (e.g., 🚀, 💎, 📉).
+        - Style: Exciting, easy to read, and professional.
+        - Include a "💡 Why This Pays Off" section at the end.
+
+        Task 2: PODCAST SCRIPT (Target: 250+ Words for ~1 Minute Audio)
+        - Start with: "Welcome back to Money Maker AI, let's get rich!"
+        - Structure:
+          1. The Hook: What just happened? (Exciting)
+          2. The Deep Dive: Explain the details simply.
+          3. The Roast/Joke: Make a funny comment about the situation.
+          4. The Conclusion: "Stay sharp, keep printing!"
+        - Make it conversational, like a radio host.
         
         IMPORTANT: Separate Task 1 and Task 2 with exactly "||||".
         """
         
         chat_completion = client.chat.completions.create(
             messages=[{"role": "user", "content": prompt}],
-            # 👇 YAHAN CHANGE KIYA HAI (Naya Model)
             model="llama-3.3-70b-versatile", 
             temperature=0.7,
         )
@@ -81,6 +94,7 @@ def get_groq_content(title, description):
 
 async def generate_audio(text):
     try:
+        # Voice: GuyNeural (Funny/Casual)
         communicate = edge_tts.Communicate(text, "en-US-GuyNeural")
         await communicate.save("update.mp3")
     except Exception as e:
@@ -88,8 +102,8 @@ async def generate_audio(text):
 
 def send_telegram(title, summary, img_url, prices):
     try:
-        # Message Format
-        caption = f"<b>🚨 {title}</b>\n\n{prices}\n\n📝 <b>Report:</b>\n{summary}\n\n📢 <i>Llama-3.3 Power 🦙</i>"
+        # Footer Updated to 'Money Maker Ai Power'
+        caption = f"<b>🚨 {title}</b>\n\n{prices}\n\n📝 <b>Money Maker Report:</b>\n{summary}\n\n📢 <i>Money Maker Ai Power 🦙</i>"
         
         base_url = f"https://api.telegram.org/bot{TOKEN}"
         
@@ -105,7 +119,7 @@ def send_telegram(title, summary, img_url, prices):
         if os.path.exists("update.mp3"):
             with open("update.mp3", "rb") as audio:
                 files = {"audio": audio}
-                data = {"chat_id": CHAT_ID, "title": "🎙️ Crypto Update", "performer": "AI Anchor"}
+                data = {"chat_id": CHAT_ID, "title": "🎙️ Money Maker Daily", "performer": "AI Analyst"}
                 requests.post(f"{base_url}/sendAudio", data=data, files=files)
             os.remove("update.mp3")
 
@@ -113,7 +127,7 @@ def send_telegram(title, summary, img_url, prices):
         print(f"⚠️ Telegram Error: {e}")
 
 def main():
-    print("📡 Starting Bot (Llama 3.3 Update)...")
+    print("📡 Starting Money Maker AI Bot...")
     sent_links = []
     if os.path.exists("last_id.txt"):
         with open("last_id.txt", "r", encoding="utf-8") as f:

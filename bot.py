@@ -13,22 +13,12 @@ CHAT_ID = os.environ.get("CHAT_ID")
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 RSS_URL = "https://cointelegraph.com/rss"
 
-# --- AI SETUP (WITH SAFETY OFF) ---
-if not GEMINI_API_KEY:
-    print("❌ CRITICAL ERROR: Gemini API Key is MISSING in Secrets!")
-
-try:
+# AI Config
+if GEMINI_API_KEY:
     genai.configure(api_key=GEMINI_API_KEY)
-    # Safety Filters ko OFF kar rahe hain taaki wo news block na kare
-    safety_settings = [
-        {"category": "HARM_CATEGORY_HARASSMENT", "threshold": "BLOCK_NONE"},
-        {"category": "HARM_CATEGORY_HATE_SPEECH", "threshold": "BLOCK_NONE"},
-        {"category": "HARM_CATEGORY_SEXUALLY_EXPLICIT", "threshold": "BLOCK_NONE"},
-        {"category": "HARM_CATEGORY_DANGEROUS_CONTENT", "threshold": "BLOCK_NONE"},
-    ]
-    model = genai.GenerativeModel('gemini-1.5-flash', safety_settings=safety_settings)
-except Exception as e:
-    print(f"❌ AI Configuration Error: {e}")
+    model = genai.GenerativeModel('gemini-1.5-flash')
+else:
+    model = None
 
 # --- FUNCTIONS ---
 
@@ -55,21 +45,22 @@ def extract_image(description):
 
 def get_ai_content(title, description):
     """
-    Ab ye function Safety Filters bypass karega.
+    DEBUG MODE: Error ko chupayega nahi, seedha bhejega.
     """
-    try:
-        if not GEMINI_API_KEY:
-            return description, f"Hey, here is the update on {title}"
+    # 1. Check agar Key hi nahi hai
+    if not GEMINI_API_KEY:
+        error_msg = "❌ Error: GEMINI_API_KEY Secrets me missing hai!"
+        return error_msg, "I cannot speak because the API Key is missing."
 
+    try:
         prompt = f"""
-        You are a funny, energetic, and sarcastic crypto news anchor.
+        Act as a funny crypto news anchor.
+        News: {title} - {description}
         
-        Input: {title} - {description}
+        Task 1: Detailed Summary (150 words).
+        Task 2: Funny Voice Script (100 words).
         
-        Task 1: Summarize this news in 150 words. Be detailed, use bullet points, and explain WHY it matters.
-        Task 2: Write a funny voice script (100 words). Start with "Listen up Crypto Fam!". Don't just read the title, explain the drama!
-        
-        Use exactly "||||" to separate Task 1 and Task 2.
+        Separator: ||||
         """
         
         response = model.generate_content(prompt)
@@ -77,17 +68,15 @@ def get_ai_content(title, description):
         
         if "||||" in text:
             parts = text.split("||||")
-            summary = parts[0].strip()
-            script = parts[1].strip()
+            return parts[0].strip(), parts[1].strip()
         else:
-            summary = text
-            script = f"Wow, big news coming in! {title}. Check the text for details!"
-
-        return summary, script
+            return text, "Hey, check this news out!"
 
     except Exception as e:
-        print(f"⚠️ AI Generation Error: {e}") # Ye logs me dikhega
-        return description, f"Breaking news update on {title}"
+        # YAHAN HAI MAGIC: Asli Error Telegram par dikhega
+        error_message = f"⚠️ AI ERROR (Screenshot bhejo): {str(e)}"
+        print(error_message)
+        return error_message, f"I encountered an error: {str(e)}"
 
 async def generate_audio(text):
     try:
@@ -98,13 +87,14 @@ async def generate_audio(text):
 
 def send_telegram(title, summary, img_url, prices):
     try:
-        caption = f"<b>🚨 {title}</b>\n\n{prices}\n\n📝 <b>The Full Scoop:</b>\n{summary}\n\n📢 <i>Sound On for the Roast! 🔊</i>"
+        # Caption me ab Error dikhega agar aaya to
+        caption = f"<b>🚨 {title}</b>\n\n{prices}\n\n📝 <b>AI Report:</b>\n{summary}\n\n📢 <i>Debug Mode On</i>"
         
         base_url = f"https://api.telegram.org/bot{TOKEN}"
         
         if img_url:
             if len(caption) > 1000:
-                caption = caption[:1000] + "... (Audio suno!)"
+                caption = caption[:1000] + "..."
             payload = {"chat_id": CHAT_ID, "photo": img_url, "caption": caption, "parse_mode": "HTML"}
             requests.post(f"{base_url}/sendPhoto", json=payload)
         else:
@@ -114,7 +104,7 @@ def send_telegram(title, summary, img_url, prices):
         if os.path.exists("update.mp3"):
             with open("update.mp3", "rb") as audio:
                 files = {"audio": audio}
-                data = {"chat_id": CHAT_ID, "title": "🎙️ The Funny Take", "performer": "AI Anchor"}
+                data = {"chat_id": CHAT_ID, "title": "🎙️ AI Voice", "performer": "Debug Bot"}
                 requests.post(f"{base_url}/sendAudio", data=data, files=files)
             os.remove("update.mp3")
 
@@ -122,7 +112,7 @@ def send_telegram(title, summary, img_url, prices):
         print(f"⚠️ Telegram Error: {e}")
 
 def main():
-    print("📡 Starting Bot (Safety OFF Mode)...")
+    print("📡 Starting Debug Bot...")
     sent_links = []
     
     if os.path.exists("last_id.txt"):

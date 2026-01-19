@@ -3,7 +3,6 @@ import requests
 import xml.etree.ElementTree as ET
 import time
 import re
-import html  # <--- Safety ke liye naya tool
 from groq import Groq
 import asyncio
 import edge_tts
@@ -51,19 +50,25 @@ def get_groq_content(title, description):
         return f"❌ Error: GROQ_API_KEY Missing!", "System Failure."
 
     try:
+        # Prompt ko update kiya hai 1 Minute Audio aur Emojis ke liye
         prompt = f"""
-        Act as a high-energy crypto investor running a channel "Money Maker AI".
+        Act as a high-energy, successful crypto investor running a channel called "Money Maker AI".
         News: {title} - {description}
         
-        Task 1: WRITTEN REPORT (150 words).
-        - Use Bullet points with Emojis (🚀, 💎, 📉).
-        - Style: Exciting and professional.
-        - Include "💡 Why This Pays Off".
+        Task 1: WRITTEN REPORT (Make it pop with emojis! 🔥)
+        - Write a 150-word summary.
+        - Use Bullet points with Emojis for every single point (e.g., 🚀, 💎, 📉).
+        - Style: Exciting, easy to read, and professional.
+        - Include a "💡 Why This Pays Off" section at the end.
 
-        Task 2: PODCAST SCRIPT (250+ Words).
-        - Start: "Welcome back to Money Maker AI!".
-        - Structure: Hook -> Deep Dive -> Roast/Joke -> Conclusion.
-        - Make it conversational.
+        Task 2: PODCAST SCRIPT (Target: 250+ Words for ~1 Minute Audio)
+        - Start with: "Welcome back to Money Maker AI, let's get rich!"
+        - Structure:
+          1. The Hook: What just happened? (Exciting)
+          2. The Deep Dive: Explain the details simply.
+          3. The Roast/Joke: Make a funny comment about the situation.
+          4. The Conclusion: "Stay sharp, keep printing!"
+        - Make it conversational, like a radio host.
         
         IMPORTANT: Separate Task 1 and Task 2 with exactly "||||".
         """
@@ -89,6 +94,7 @@ def get_groq_content(title, description):
 
 async def generate_audio(text):
     try:
+        # Voice: GuyNeural (Funny/Casual)
         communicate = edge_tts.Communicate(text, "en-US-GuyNeural")
         await communicate.save("update.mp3")
     except Exception as e:
@@ -96,39 +102,20 @@ async def generate_audio(text):
 
 def send_telegram(title, summary, img_url, prices):
     try:
+        # Footer Updated to 'Money Maker Ai Power'
+        caption = f"<b>🚨 {title}</b>\n\n{prices}\n\n📝 <b>Money Maker Report:</b>\n{summary}\n\n📢 <i>Money Maker Ai Power 🦙</i>"
+        
         base_url = f"https://api.telegram.org/bot{TOKEN}"
         
-        # SAFETY STEP: HTML Escape (Symbols ko safe banana)
-        safe_summary = html.escape(summary)
-        # Note: Hum prices aur title ko escape nahi kar rahe kyunki wo hum control karte hain
-        # Lekin AI ka summary unpredictable hota hai.
-        
-        # Caption Construction
-        caption = f"<b>🚨 {title}</b>\n\n{prices}\n\n📝 <b>Money Maker Report:</b>\n{safe_summary}\n\n📢 <i>Money Maker Ai Power 🦙</i>"
-        
-        # 1. Try Sending Photo first
-        sent_successfully = False
-        
         if img_url:
-            if len(caption) > 1024:
-                caption = caption[:1020] + "..."
-                
+            if len(caption) > 1000:
+                caption = caption[:1000] + "..."
             payload = {"chat_id": CHAT_ID, "photo": img_url, "caption": caption, "parse_mode": "HTML"}
-            r = requests.post(f"{base_url}/sendPhoto", json=payload)
-            
-            if r.status_code == 200:
-                sent_successfully = True
-            else:
-                print(f"⚠️ Photo Failed ({r.text}). Trying Text Only...")
-        
-        # 2. Fallback: Agar Photo fail hui ya thi hi nahi, to Text bhejo
-        if not sent_successfully:
+            requests.post(f"{base_url}/sendPhoto", json=payload)
+        else:
             payload = {"chat_id": CHAT_ID, "text": caption, "parse_mode": "HTML"}
-            r = requests.post(f"{base_url}/sendMessage", json=payload)
-            if r.status_code != 200:
-                print(f"⚠️ Text Also Failed: {r.text}")
+            requests.post(f"{base_url}/sendMessage", json=payload)
 
-        # 3. Audio Bhejo (Ye humesha alag request hoti hai)
         if os.path.exists("update.mp3"):
             with open("update.mp3", "rb") as audio:
                 files = {"audio": audio}
@@ -140,7 +127,7 @@ def send_telegram(title, summary, img_url, prices):
         print(f"⚠️ Telegram Error: {e}")
 
 def main():
-    print("📡 Starting Robust Money Maker Bot...")
+    print("📡 Starting Money Maker AI Bot...")
     sent_links = []
     if os.path.exists("last_id.txt"):
         with open("last_id.txt", "r", encoding="utf-8") as f:

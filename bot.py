@@ -46,7 +46,7 @@ def get_groq_content(title, description):
     """
     MODEL: llama-3.3-70b-versatile
     STYLE: Money Maker AI
-    UPDATES: Removes '**', Bolds Text, Long Audio (500 words)
+    UPDATES: Fixes empty 'Why This Pays Off', Long Audio (600 words)
     """
     if not client:
         return f"❌ Error: GROQ_API_KEY Missing!", "System Failure."
@@ -60,18 +60,17 @@ def get_groq_content(title, description):
         - Write a summary with Bullet points and Emojis (🚀, 💎, 📉).
         - DO NOT use headers like "Written Report" or "Summary".
         - DO NOT use markdown formatting like **bold** or ## headers.
-        - Just give the content.
-        - Include "💡 Why This Pays Off" at the end.
+        - MANDATORY: End with "💡 Why This Pays Off: [Explain here in 1 sentence why this is good for investors]".
 
-        Task 2: PODCAST SCRIPT (Target: 500+ Words for 2+ Minutes Audio)
+        Task 2: PODCAST SCRIPT (Target: 600+ Words for 3+ Minutes Audio)
         - Start: "Welcome back to Money Maker AI!".
         - Structure: 
           1. High Energy Hook.
-          2. Detailed Breakdown (Go deep into the "Why" and "How").
-          3. Market Sentiment Analysis (Bullish/Bearish).
+          2. Detailed Breakdown (Explain the "Why" and "How" in depth).
+          3. Market Sentiment Analysis.
           4. Personal Prediction/Roast.
           5. Conclusion.
-        - Make it conversational and LONG. 
+        - Make it conversational and VERY LONG. Elaborate on every point.
         - DO NOT read instructions like "Task 2".
         
         IMPORTANT: Separate Task 1 and Task 2 with exactly "||||".
@@ -91,7 +90,6 @@ def get_groq_content(title, description):
             script = parts[1].strip()
             
             # --- SAFAI ABHIYAAN (Cleaning Summary) ---
-            # Ye 'Written Report' aur '**' ko hata dega
             summ_cleaners = ["Written Report:", "Written Report", "**", "##"]
             for word in summ_cleaners:
                 summary = summary.replace(word, "")
@@ -126,15 +124,13 @@ def send_telegram(title, summary, img_url, prices):
         # SAFETY STEP: HTML Escape
         safe_summary = html.escape(summary)
         
-        # Caption Construction (HEADER CHANGED + BOLD SUMMARY ADDED)
-        # <b>{safe_summary}</b> <-- Ye line pure text ko bold kar degi
+        # Caption Construction (HEADER CHANGED + BOLD SUMMARY)
         caption = f"<b>🚨 {title}</b>\n\n{prices}\n\n📝 <b>Money Maker Ai Summary Report:</b>\n<b>{safe_summary}</b>\n\n📢 <i>Money Maker Ai Power 🦙</i>"
         
         # 1. Try Sending Photo first
         sent_successfully = False
         
         if img_url:
-            # Telegram caption limit check (1024 chars)
             if len(caption) > 1024:
                 caption = caption[:1020] + "..."
                 
@@ -163,7 +159,7 @@ def send_telegram(title, summary, img_url, prices):
         print(f"⚠️ Telegram Error: {e}")
 
 def main():
-    print("📡 Starting Money Maker Bot (Bold Edition)...")
+    print("📡 Starting Money Maker Bot (Final Fix)...")
     sent_links = []
     if os.path.exists("last_id.txt"):
         with open("last_id.txt", "r", encoding="utf-8") as f:

@@ -45,8 +45,8 @@ def extract_image(description):
 def get_groq_content(title, description):
     """
     MODEL: llama-3.3-70b-versatile
-    STYLE: Money Maker AI (High Energy, Emojis, Long Audio)
-    FIX: Removes 'Task 2' labels from audio script.
+    STYLE: Money Maker AI
+    UPDATES: Removes '**', Bolds Text, Long Audio (500 words)
     """
     if not client:
         return f"❌ Error: GROQ_API_KEY Missing!", "System Failure."
@@ -56,16 +56,23 @@ def get_groq_content(title, description):
         Act as a high-energy crypto investor running a channel "Money Maker AI".
         News: {title} - {description}
         
-        Task 1: WRITTEN REPORT (150 words).
-        - Use Bullet points with Emojis (🚀, 💎, 📉).
-        - Style: Exciting and professional.
-        - Include "💡 Why This Pays Off".
+        Task 1: WRITTEN REPORT (Clean Text Only)
+        - Write a summary with Bullet points and Emojis (🚀, 💎, 📉).
+        - DO NOT use headers like "Written Report" or "Summary".
+        - DO NOT use markdown formatting like **bold** or ## headers.
+        - Just give the content.
+        - Include "💡 Why This Pays Off" at the end.
 
-        Task 2: PODCAST SCRIPT (250+ Words).
+        Task 2: PODCAST SCRIPT (Target: 500+ Words for 2+ Minutes Audio)
         - Start: "Welcome back to Money Maker AI!".
-        - Structure: Hook -> Deep Dive -> Roast/Joke -> Conclusion.
-        - Make it conversational.
-        - DO NOT read instructions like "Task 2" or "Script".
+        - Structure: 
+          1. High Energy Hook.
+          2. Detailed Breakdown (Go deep into the "Why" and "How").
+          3. Market Sentiment Analysis (Bullish/Bearish).
+          4. Personal Prediction/Roast.
+          5. Conclusion.
+        - Make it conversational and LONG. 
+        - DO NOT read instructions like "Task 2".
         
         IMPORTANT: Separate Task 1 and Task 2 with exactly "||||".
         """
@@ -83,10 +90,16 @@ def get_groq_content(title, description):
             summary = parts[0].strip()
             script = parts[1].strip()
             
-            # --- SAFAI ABHIYAAN (Cleaning Fix) ---
-            # Ye words agar script me aaye to uda denge
-            remove_words = ["Task 2:", "Task 2", "PODCAST SCRIPT", "Podcast Script", "Analysis:", "**", "##"]
-            for word in remove_words:
+            # --- SAFAI ABHIYAAN (Cleaning Summary) ---
+            # Ye 'Written Report' aur '**' ko hata dega
+            summ_cleaners = ["Written Report:", "Written Report", "**", "##"]
+            for word in summ_cleaners:
+                summary = summary.replace(word, "")
+            summary = summary.strip()
+
+            # --- SAFAI ABHIYAAN (Cleaning Script) ---
+            script_cleaners = ["Task 2:", "Task 2", "PODCAST SCRIPT", "Podcast Script", "Analysis:", "**", "##"]
+            for word in script_cleaners:
                 script = script.replace(word, "")
             
             return summary, script.strip()
@@ -110,16 +123,18 @@ def send_telegram(title, summary, img_url, prices):
     try:
         base_url = f"https://api.telegram.org/bot{TOKEN}"
         
-        # SAFETY STEP: HTML Escape (Symbols safe banana)
+        # SAFETY STEP: HTML Escape
         safe_summary = html.escape(summary)
         
-        # Caption Construction
-        caption = f"<b>🚨 {title}</b>\n\n{prices}\n\n📝 <b>Money Maker Report:</b>\n{safe_summary}\n\n📢 <i>Money Maker Ai Power 🦙</i>"
+        # Caption Construction (HEADER CHANGED + BOLD SUMMARY ADDED)
+        # <b>{safe_summary}</b> <-- Ye line pure text ko bold kar degi
+        caption = f"<b>🚨 {title}</b>\n\n{prices}\n\n📝 <b>Money Maker Ai Summary Report:</b>\n<b>{safe_summary}</b>\n\n📢 <i>Money Maker Ai Power 🦙</i>"
         
         # 1. Try Sending Photo first
         sent_successfully = False
         
         if img_url:
+            # Telegram caption limit check (1024 chars)
             if len(caption) > 1024:
                 caption = caption[:1020] + "..."
                 
@@ -135,8 +150,6 @@ def send_telegram(title, summary, img_url, prices):
         if not sent_successfully:
             payload = {"chat_id": CHAT_ID, "text": caption, "parse_mode": "HTML"}
             r = requests.post(f"{base_url}/sendMessage", json=payload)
-            if r.status_code != 200:
-                print(f"⚠️ Text Also Failed: {r.text}")
 
         # 3. Audio Bhejo
         if os.path.exists("update.mp3"):
@@ -150,7 +163,7 @@ def send_telegram(title, summary, img_url, prices):
         print(f"⚠️ Telegram Error: {e}")
 
 def main():
-    print("📡 Starting Money Maker Bot (Final)...")
+    print("📡 Starting Money Maker Bot (Bold Edition)...")
     sent_links = []
     if os.path.exists("last_id.txt"):
         with open("last_id.txt", "r", encoding="utf-8") as f:

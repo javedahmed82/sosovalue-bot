@@ -45,8 +45,6 @@ def extract_image(description):
 def get_groq_content(title, description):
     """
     MODEL: llama-3.3-70b-versatile
-    STYLE: Money Maker AI
-    UPDATES: Fixes empty 'Why This Pays Off', Long Audio (600 words)
     """
     if not client:
         return f"❌ Error: GROQ_API_KEY Missing!", "System Failure."
@@ -60,16 +58,10 @@ def get_groq_content(title, description):
         - Write a summary with Bullet points and Emojis (🚀, 💎, 📉).
         - DO NOT use headers like "Written Report" or "Summary".
         - DO NOT use markdown formatting like **bold** or ## headers.
-        - MANDATORY: End with "💡 Why This Pays Off: [Explain here in 1 sentence why this is good for investors]".
+        - MANDATORY: End with "💡 Why This Pays Off: [Explain here]".
 
         Task 2: PODCAST SCRIPT (Target: 600+ Words for 3+ Minutes Audio)
         - Start: "Welcome back to Money Maker AI!".
-        - Structure: 
-          1. High Energy Hook.
-          2. Detailed Breakdown (Explain the "Why" and "How" in depth).
-          3. Market Sentiment Analysis.
-          4. Personal Prediction/Roast.
-          5. Conclusion.
         - Make it conversational and VERY LONG. Elaborate on every point.
         - DO NOT read instructions like "Task 2".
         
@@ -89,18 +81,16 @@ def get_groq_content(title, description):
             summary = parts[0].strip()
             script = parts[1].strip()
             
-            # --- SAFAI ABHIYAAN (Cleaning Summary) ---
-            summ_cleaners = ["Written Report:", "Written Report", "**", "##"]
+            # --- Cleaning ---
+            summ_cleaners = ["Written Report:", "**", "##"]
             for word in summ_cleaners:
                 summary = summary.replace(word, "")
-            summary = summary.strip()
-
-            # --- SAFAI ABHIYAAN (Cleaning Script) ---
-            script_cleaners = ["Task 2:", "Task 2", "PODCAST SCRIPT", "Podcast Script", "Analysis:", "**", "##"]
+            
+            script_cleaners = ["Task 2:", "PODCAST SCRIPT", "**", "##"]
             for word in script_cleaners:
                 script = script.replace(word, "")
             
-            return summary, script.strip()
+            return summary.strip(), script.strip()
         else:
             return text, "Check the text report!"
 
@@ -111,7 +101,6 @@ def get_groq_content(title, description):
 
 async def generate_audio(text):
     try:
-        # Voice: GuyNeural (Funny/Casual)
         communicate = edge_tts.Communicate(text, "en-US-GuyNeural")
         await communicate.save("update.mp3")
     except Exception as e:
@@ -120,34 +109,25 @@ async def generate_audio(text):
 def send_telegram(title, summary, img_url, prices):
     try:
         base_url = f"https://api.telegram.org/bot{TOKEN}"
-        
-        # SAFETY STEP: HTML Escape
         safe_summary = html.escape(summary)
         
-        # Caption Construction (HEADER CHANGED + BOLD SUMMARY)
-        caption = f"<b>🚨 {title}</b>\n\n{prices}\n\n📝 <b>Money Maker Ai Summary Report:</b>\n<b>{safe_summary}</b>\n\n📢 <i>Money Maker Ai Power 🦙</i>"
+        # --- STRATEGY CHANGE: 3 Alag Messages Bhejenge ---
         
-        # 1. Try Sending Photo first
-        sent_successfully = False
+        # 1. PHOTO + PRICES (Short Caption - Kabhi Fail Nahi Hoga)
+        photo_caption = f"<b>🚨 {title}</b>\n\n{prices}\n\n👇 <i>Read Full Report Below</i>"
         
         if img_url:
-            if len(caption) > 1024:
-                caption = caption[:1020] + "..."
-                
-            payload = {"chat_id": CHAT_ID, "photo": img_url, "caption": caption, "parse_mode": "HTML"}
-            r = requests.post(f"{base_url}/sendPhoto", json=payload)
-            
-            if r.status_code == 200:
-                sent_successfully = True
-            else:
-                print(f"⚠️ Photo Failed ({r.text}). Trying Text Only...")
+            payload = {"chat_id": CHAT_ID, "photo": img_url, "caption": photo_caption, "parse_mode": "HTML"}
+            requests.post(f"{base_url}/sendPhoto", json=payload)
         
-        # 2. Fallback: Agar Photo fail hui, to Text bhejo
-        if not sent_successfully:
-            payload = {"chat_id": CHAT_ID, "text": caption, "parse_mode": "HTML"}
-            r = requests.post(f"{base_url}/sendMessage", json=payload)
+        # 2. FULL TEXT REPORT (Alag Message - Limit 4096 chars - Bold Safe)
+        # Yahan hum puri report bhejenge bina cut kiye
+        report_text = f"📝 <b>Money Maker Ai Summary Report:</b>\n\n<b>{safe_summary}</b>\n\n📢 <i>Money Maker Ai Power 🦙</i>"
+        
+        payload = {"chat_id": CHAT_ID, "text": report_text, "parse_mode": "HTML"}
+        requests.post(f"{base_url}/sendMessage", json=payload)
 
-        # 3. Audio Bhejo
+        # 3. AUDIO (Podcast)
         if os.path.exists("update.mp3"):
             with open("update.mp3", "rb") as audio:
                 files = {"audio": audio}
@@ -159,7 +139,7 @@ def send_telegram(title, summary, img_url, prices):
         print(f"⚠️ Telegram Error: {e}")
 
 def main():
-    print("📡 Starting Money Maker Bot (Final Fix)...")
+    print("📡 Starting Money Maker Bot (Split Fix)...")
     sent_links = []
     if os.path.exists("last_id.txt"):
         with open("last_id.txt", "r", encoding="utf-8") as f:

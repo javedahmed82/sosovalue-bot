@@ -30,3 +30,5 @@ https://cointelegraph.com/news/chainalysis-automation-onchain-investigations-no-
 https://cointelegraph.com/news/how-a-third-party-data-leak-led-to-phishing-attempts-against-ledger-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/solana-slips-below-130-but-onchain-data-suggests-sol-remains-bullish?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/ray-dalio-banks-fiat-gold-davos-wef?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/redstone-acquires-security-token-market-and-tokenizethis-conference-embargo-tuesday-at-12-30-et?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/eth-price-metric-flashes-buy-signal-after-3-years-of-seller-dominance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

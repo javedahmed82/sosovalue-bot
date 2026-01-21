@@ -1,5 +1,3 @@
-https://cointelegraph.com/news/bitcoin-trader-keeps-100k-btc-target-gold-price-hits-record-4750?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/chainalysis-automation-onchain-investigations-no-code?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/how-a-third-party-data-leak-led-to-phishing-attempts-against-ledger-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/solana-slips-below-130-but-onchain-data-suggests-sol-remains-bullish?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/ray-dalio-banks-fiat-gold-davos-wef?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +46,5 @@ https://cointelegraph.com/news/price-predictions-1-21-btc-eth-bnb-xrp-sol-doge-a
 https://cointelegraph.com/news/xrp-flashes-signal-last-triggered-68-percent-price-drop?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/iran-central-bank-usdt-elliptic-rial?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/us-crypto-czar-sacks-banks-crypto-one-digital-asset-industry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/us-senate-agriculture-committee-market-structure-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/eth-whales-bought-the-dip-but-will-accumulators-prevent-a-drop-to-dollar2-7k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

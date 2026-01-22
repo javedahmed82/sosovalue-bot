@@ -1,5 +1,3 @@
-https://cointelegraph.com/news/bitcoin-x-posts-google-searches-fell-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/trump-crypto-advisor-compromises-pass-crypto-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/grayscale-files-to-convert-near-trust-to-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bhutan-sei-blockchain-validator-digital-transformation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/galaxy-launches-100m-crypto-hedge-fund-long-short-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +46,5 @@ https://cointelegraph.com/news/thailand-crypto-etf-rules-as-institutional-accept
 https://cointelegraph.com/news/bitgo-ipo-price-18-shares-begin-trading-nyse-thursday?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/ramaswamy-strive-150m-preferred-stock-debt-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-analysts-predict-prolonged-consolidation-for-btc-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/fedi-cornell-bitcoin-policy-institute-financial-privacy-study?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/vietnam-opens-crypto-exchange-licensing-window-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

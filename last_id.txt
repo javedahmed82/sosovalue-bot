@@ -1,5 +1,3 @@
-https://cointelegraph.com/news/bank-of-italy-panetta-tokenized-commercial-bank-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/argentine-exchange-ripio-peso-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/crypto-next-battle-privacy-regulators-chicken-egg-dilemma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-eyes-90k-donald-trump-sees-crypto-bill-signing-very-soon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +46,5 @@ https://cointelegraph.com/news/solana-depin-project-self-driving-camera?utm_sour
 https://cointelegraph.com/news/17k-bitcoin-inflow-to-exchanges-raises-alarm-will-btc-s-sell-off-deepen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitwise-bitcoin-gold-currency-debasement-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/circle-ceo-usdc-neutral-layer-banks-visa-mastercad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/coinbase-board-quantum-computing-risks-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/tennessee-kingston-ordinance-crypto-mining-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

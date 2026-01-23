@@ -1,5 +1,3 @@
-https://cointelegraph.com/news/us-crypto-czar-sacks-banks-crypto-one-digital-asset-industry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/us-senate-agriculture-committee-market-structure-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/eth-whales-bought-the-dip-but-will-accumulators-prevent-a-drop-to-dollar2-7k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/vitalik-buterin-decentralized-social-media-2026-priority?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/un-circle-grant-stablecoins-streamline-refugee-aid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +46,5 @@ https://cointelegraph.com/news/bitcoin-quantum-computing-fears-btc-price-catalys
 https://cointelegraph.com/news/ethereum-mainnet-more-popular-daily-addresses-all-l2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/sec-cftc-harmonization-event-crypto-oversight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/south-korea-seized-bitcoin-stolen-phishing-scam-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/capital-one-bank-buys-stablecoin-fintech-brex-for-5-15b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/doj-drops-opensea-manager-nft-insder-trader-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

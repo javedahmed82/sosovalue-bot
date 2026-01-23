@@ -1,4 +1,3 @@
-https://cointelegraph.com/news/columbia-professor-says-nyse-tokenization-plan-reads-like-vaporware?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/buterin-distributed-validators-can-make-ethereum-staking-simpler?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-institutional-investor-price-run-macro-researcher-forecast?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/saga-pauses-sagaevm-after-7m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +47,4 @@ https://cointelegraph.com/news/binance-applies-mica-license-greece-hcmc?utm_sour
 https://cointelegraph.com/news/kansas-bill-bitcoin-digital-assets-reserve-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-in-early-stage-bear-market-84k-crucial-btc-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/farcaster-neynar-acquisition-investor-capital-return?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/restaking-delivers-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

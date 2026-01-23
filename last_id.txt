@@ -1,5 +1,3 @@
-https://cointelegraph.com/news/xrp-flashes-signal-last-triggered-68-percent-price-drop?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/iran-central-bank-usdt-elliptic-rial?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/us-crypto-czar-sacks-banks-crypto-one-digital-asset-industry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/us-senate-agriculture-committee-market-structure-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/eth-whales-bought-the-dip-but-will-accumulators-prevent-a-drop-to-dollar2-7k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +46,5 @@ https://cointelegraph.com/news/billions-of-ai-agents-to-use-stablecoins-circle-c
 https://cointelegraph.com/news/bitcoin-options-show-pro-traders-expect-more-downside-but-also-plan-to-accumulate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-quantum-computing-fears-btc-price-catalyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/ethereum-mainnet-more-popular-daily-addresses-all-l2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/sec-cftc-harmonization-event-crypto-oversight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/south-korea-seized-bitcoin-stolen-phishing-scam-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

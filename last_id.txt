@@ -1,4 +1,3 @@
-https://cointelegraph.com/news/bitwise-bitcoin-gold-currency-debasement-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/circle-ceo-usdc-neutral-layer-banks-visa-mastercad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/coinbase-board-quantum-computing-risks-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/tennessee-kingston-ordinance-crypto-mining-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +47,4 @@ https://cointelegraph.com/news/ethereum-foundation-post-quantum-security-team?ut
 https://cointelegraph.com/news/netherlands-unrealized-gains-tax-stocks-crypto-box-3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/stablecoin-yield-bans-push-capital-offshore-unregulated-instruments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/could-europe-sell-us-debt-greenland-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/bitcoin-nodes-run-bip-110-crosses-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

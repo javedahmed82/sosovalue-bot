@@ -1,4 +1,3 @@
-https://cointelegraph.com/news/tennessee-kingston-ordinance-crypto-mining-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/stablecoin-supply-plateaus-regulation-treasury-yields?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/donald-trump-jpmorgan-florida-court-debanking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/nasdaq-position-limits-bitcoin-ether-etf-options?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +47,4 @@ https://cointelegraph.com/news/could-europe-sell-us-debt-greenland-deal?utm_sour
 https://cointelegraph.com/news/bitcoin-nodes-run-bip-110-crosses-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/penguin-memecoin-surge-564-white-house?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-payment-held-back-tax-scaling-tech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/bitcoin-etfs-outflow-streak-crypto-sentiment-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

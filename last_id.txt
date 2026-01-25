@@ -1,4 +1,3 @@
-https://cointelegraph.com/news/sec-cftc-harmonization-event-crypto-oversight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/south-korea-seized-bitcoin-stolen-phishing-scam-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/capital-one-bank-buys-stablecoin-fintech-brex-for-5-15b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/doj-drops-opensea-manager-nft-insder-trader-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +47,4 @@ https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed
 https://cointelegraph.com/news/tezos-tallinn-upgrade-blocks-6-seconds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-sells-off-into-weekly-close-86k-btc-price-reckoning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/opportunists-protocol-change-btc-biggest-threat-saylor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/foundry-usa-hashrate-down-60-deadly-storm?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

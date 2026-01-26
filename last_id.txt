@@ -1,5 +1,3 @@
-https://cointelegraph.com/news/bitcoin-miners-prepare-ice-storm-southern-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/crypto-adoption-regions-pricewaterhousecoopers-pwc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/will-xrp-price-double-again-latent-buy-pressure-shorts-danger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/ledger-said-to-be-working-with-goldman-sachs-barclays-on-us-ipo-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/vitalik-buterin-declares-2026-self-sovereign-computing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +46,5 @@ https://cointelegraph.com/news/crypto-wipes-100-billion-us-government-shutdown-f
 https://cointelegraph.com/news/a16z-backed-crypto-startup-entropy-to-shut-down-refund-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/gold-reaches-all-time-high-5k-diverging-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/institutional-investors-say-bitcoin-undervalued-coinbase-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/ethzilla-buys-aircraft-engine-amid-tokenization-focus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/fca-nears-final-consultation-step-of-new-crypto-regime?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

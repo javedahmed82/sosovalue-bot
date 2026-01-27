@@ -1,4 +1,3 @@
-https://cointelegraph.com/news/coinone-south-korea-sale-coinbase-investment-speculation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/swapnet-hack-smart-contract-exploit-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/metaplanet-raises-revenue-forecast-bitcoin-impairment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/btc-price-bottoming-phase-ends-five-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +47,4 @@ https://cointelegraph.com/news/us-crypto-capital-claim-developer-prosecutions?ut
 https://cointelegraph.com/news/asic-crypto-regulatory-perimeter-2026-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/ethereum-post-quantum-resilience-interview?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/is-bitcoin-versus-gold-chart-completely-broken?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/bitcoin-price-due-sub-80k-bottom-this-week-new-wyckoff-forecast?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

@@ -1,5 +1,3 @@
-https://cointelegraph.com/news/us-crypto-capital-claim-developer-prosecutions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/asic-crypto-regulatory-perimeter-2026-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/ethereum-post-quantum-resilience-interview?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/is-bitcoin-versus-gold-chart-completely-broken?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-price-due-sub-80k-bottom-this-week-new-wyckoff-forecast?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +46,5 @@ https://cointelegraph.com/news/cftc-commissioners-amendment-market-structure-bil
 https://cointelegraph.com/news/bitcoin-traders-eye-dollar93-5k-liquidation-sweep-despite-fed-interest-rate-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/crypto-pac-fairshake-contributions-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/coinbase-prediction-markets-all-50-us-states-kalshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/fed-holds-rates-weak-dollar-bitcoin-crypto-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/ripple-blockchain-treasury-platform-digital-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

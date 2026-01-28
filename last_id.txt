@@ -1,6 +1,3 @@
-https://cointelegraph.com/news/polymarket-prediction-market-deal-us-major-league-soccer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/meta-denies-having-access-whatsapp-chats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/viral-ai-assistant-clawdbot-risks-leaking-private-messages-credentials?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/hyperliquid-hip-3-open-interest-hits-793m-on-commodities-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/marshall-cut-card-fees-provision-crypto-bill-markup-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/top-us-banks-bitcoin-services-trading-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +45,6 @@ https://cointelegraph.com/news/okx-eu-crypto-card-regulated-issuer-monavate?utm_
 https://cointelegraph.com/news/us-treasury-theft-wallet-bundled-memecoin-crashes-97?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitget-hires-ex-bitpanda-legal-chief-oliver-stauber?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-eyes-90k-fomc-watch-these-btc-price-levels-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/bitcoin-etf-86k-break-even-level-us-wirehouse-influx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/ecb-s-cipollone-says-digital-euro-key-to-payments-sovereignty-in-weaponised-world?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/south-korea-fsc-crypto-exchange-ownership-caps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

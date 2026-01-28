@@ -1,5 +1,3 @@
-https://cointelegraph.com/news/openai-too-big-to-fail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/bitcoin-trendline-cross-2022-insane-btc-vs-silver-breakdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/tucker-carlson-presses-peter-schiff-on-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/animoca-japan-rootstocklabs-bitcoin-defi-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +46,5 @@ https://cointelegraph.com/news/banks-warn-of-stablecoin-bank-run-risk-regulators
 https://cointelegraph.com/news/hype-price-soars-58-percent-exploding-commodities-trading-hyperliquid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/fidelity-stablecoin-national-trust-bank-occ?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-price-fails-follow-gold-hits-5-3k-record-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/dubai-insurance-crypto-wallet-premium-payments-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/price-predictions-1-28-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-xmr?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

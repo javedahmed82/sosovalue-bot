@@ -1,5 +1,3 @@
-https://cointelegraph.com/news/gold-adds-over-trillion-to-market-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/xrp-large-wallet-increase-price-crypto-analyst-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/cere-network-co-founder-board-face-100m-fraud-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/ether-exchange-supply-shrinks-as-staking-demand-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/swiss-bank-sygnum-raises-750-btc-market-neutral-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +46,5 @@ https://cointelegraph.com/news/trust-defi-risk-management?utm_source=rss_feed&ut
 https://cointelegraph.com/news/bitcoin-ether-etfs-1-billion-outflows-crypto-6-percent-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/ethereum-breaks-below-2-8k-charts-hint-another-eth-price-drop?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/kevin-warsh-officially-picked-federal-reserve-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/bitcoin-bear-market-almost-over-btc-price-metric-outpaces-2022-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

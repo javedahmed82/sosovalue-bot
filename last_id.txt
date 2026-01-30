@@ -1,6 +1,3 @@
-https://cointelegraph.com/news/ai-enabled-crypto-scams-rise-500-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/hype-rallies-as-hyperliquid-dex-growth-grabs-traders-attention-will-it-last?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/worldcoin-token-spike-report-openai-build-biometric-x-rival?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/sec-breaks-down-tokenized-securities-into-two-categories-new-guidance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-rallies-expected-to-be-short-lived-until-liquidity-returns-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/gold-adds-over-trillion-to-market-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +45,6 @@ https://cointelegraph.com/news/binance-to-convert-1-billion-safu-fund-btc?utm_so
 https://cointelegraph.com/news/bitcoin-loses-crucial-84k-support-how-low-can-btc-price-go?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-miner-exodus-may-push-btc-price-below-dollar60k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/vitalik-buterin-45m-eth-privacy-open-hardware?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/trump-say-us-government-shutdown-deal-near-market-jitters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/trust-defi-risk-management?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/bitcoin-ether-etfs-1-billion-outflows-crypto-6-percent-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

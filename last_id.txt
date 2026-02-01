@@ -1,4 +1,3 @@
-https://cointelegraph.com/news/bitcoin-rotation-gold-silver-btc-price-crypto-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/circle-usdc-stablecoin-infrastructure-enterprise-adoption-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/doj-finalizes-helix-forfeiture-early-bitcoin-darknet-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bybit-neobank-move-cex-into-tradfi-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +47,4 @@ https://cointelegraph.com/news/bitcoin-price-forecasts-sub-50k-levels-btc-copies
 https://cointelegraph.com/news/alternative-inflation-data-us-cpi-cooling-fed-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-sell-off-ibit-investor-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-miner-output-us-winter-storm-latest-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/crypto-protocol-crosscurve-exploited-for-3m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

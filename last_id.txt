@@ -1,6 +1,3 @@
-https://cointelegraph.com/news/bitcoin-loses-crucial-84k-support-how-low-can-btc-price-go?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/bitcoin-miner-exodus-may-push-btc-price-below-dollar60k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/vitalik-buterin-45m-eth-privacy-open-hardware?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/trump-say-us-government-shutdown-deal-near-market-jitters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/trust-defi-risk-management?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-ether-etfs-1-billion-outflows-crypto-6-percent-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +45,6 @@ https://cointelegraph.com/news/strategy-hints-bought-bitcoin-after-weekend-crash
 https://cointelegraph.com/news/liquidity-drought-hurting-crypto-markets-raoul-pal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitriver-ceo-arrested-alleged-tax-concealment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/vitalik-buterin-pitches-idea-creator-coins-model?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/average-bitcoin-etf-buy-underwater-after-investors-pull-2-8b-2-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/crypto-stolen-370m-january-quadrupling-year-on-year-certik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/nomura-temporarily-reducing-crypto-risk-exposure-after-q4-profit-drop?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

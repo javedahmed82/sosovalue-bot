@@ -1,5 +1,3 @@
-https://cointelegraph.com/news/liquidity-drought-hurting-crypto-markets-raoul-pal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/bitriver-ceo-arrested-alleged-tax-concealment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/vitalik-buterin-pitches-idea-creator-coins-model?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/average-bitcoin-etf-buy-underwater-after-investors-pull-2-8b-2-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/crypto-stolen-370m-january-quadrupling-year-on-year-certik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +46,5 @@ https://cointelegraph.com/news/fireblocks-canton-network-support-expanding-regul
 https://cointelegraph.com/news/rails-taps-stellar-to-launch-onchain-vaults?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/metamask-tokenized-stocks-etfs-commodities-ondo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/did-solana-price-bottom-100-dollars-sol-price-charts-hint-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/world-liberty-launches-3-4b-stablecoin-how-it-fits-into-onchain-credit-systems?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/bitcoin-crypto-winter-soon-over-bitwise-exec-gold-retargets-5k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

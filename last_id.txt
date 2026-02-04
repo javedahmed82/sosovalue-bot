@@ -1,6 +1,3 @@
-https://cointelegraph.com/news/tether-releases-open-source-operating-system-for-bitcoin-miners?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/tether-opera-team-up-expand-financial-access-in-emerging-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/hyperliquid-supports-predictions-market-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-risks-56k-reasons-for-gains-elusive-galaxy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/ark-invest-boosts-shares-robinhood-bitmine-amid-crypto-stock-bloodbath?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/crypto-volume-contraction-sends-markets-back-to-2024-levels-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +45,6 @@ https://cointelegraph.com/news/ethereum-l2-builders-respond-vitalik-rollup-shift
 https://cointelegraph.com/news/canada-ciro-interim-crypto-custody-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-bounces-76k-but-data-suggests-btc-price-downtrend-not-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/mercado-bitcoin-expands-latam-rwa-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/crypto-investors-prioritize-infrastructure-over-defi-survey-finds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/bitcoin-key-trendline-68k-lining-up-save-btc-price-traders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

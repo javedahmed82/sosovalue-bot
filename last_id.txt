@@ -1,6 +1,3 @@
-https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/white-house-officials-meeting-market-structure-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/bitcoin-hits-fire-sale-value-as-capital-flows-capitulate-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/ism-manufacturing-pmi-rise-bullish-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/trump-denies-involvement-500m-uae-wlfi-stake?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/fundstrat-tom-lee-cites-lack-leverage-metals-vortex-ether-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +45,6 @@ https://cointelegraph.com/news/bitwise-acquire-chorus-one-crypto-staking-demand-
 https://cointelegraph.com/news/bitcoin-etf-aum-below-100-billion-first-since-april-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/whale-9b-bitcoin-sale-not-quantum-concerns-galaxy-digital?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/ethereum-price-classic-chart-pattern-suggests-eth-will-go-below-2k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/base-fixes-transaction-delays-config-error-layer2-lead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/tether-20-billion-raise-trim-500-billion-valuation-skepticism?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/ethereum-l2-builders-respond-vitalik-rollup-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

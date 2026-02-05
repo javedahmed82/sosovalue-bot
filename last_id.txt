@@ -1,6 +1,3 @@
-https://cointelegraph.com/news/bitwise-acquire-chorus-one-crypto-staking-demand-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/bitcoin-etf-aum-below-100-billion-first-since-april-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/whale-9b-bitcoin-sale-not-quantum-concerns-galaxy-digital?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/ethereum-price-classic-chart-pattern-suggests-eth-will-go-below-2k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/base-fixes-transaction-delays-config-error-layer2-lead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/tether-20-billion-raise-trim-500-billion-valuation-skepticism?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +45,6 @@ https://cointelegraph.com/news/bitcoin-price-may-drop-below-64k-veteran-campaign
 https://cointelegraph.com/news/ether-slips-below-dollar2k-as-eth-holder-confidence-faces-major-stress-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/aster-layer-1-testnet-live-all-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/three-signs-bitcoin-price-near-full-capitulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/tether-backs-anchorage-digital-100m-equity-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/bitcoin-slips-under-dollar64k-as-record-high-selling-intensifies-where-is-the-price-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/gemini-exit-uk-eu-australia-slashes-workforce?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

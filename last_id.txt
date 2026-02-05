@@ -1,5 +1,3 @@
-https://cointelegraph.com/news/tian-ruixiang-plans-acquire-15-000-bitcoin-equity-linked-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/next-bitcoin-accumulation-phase-may-hinge-on-credit-stress-timing-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/nevada-enforcement-action-coinbase-wagering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/eth-funding-rate-turns-negative-but-us-macro-conditions-mute-the-buy-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/ethereum-scaling-pivot-l2s-mainnet-vitalik-buterin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +46,5 @@ https://cointelegraph.com/news/coinbase-premium-gap-falls-to-yearly-low-signalli
 https://cointelegraph.com/news/bitcoin-etf-flows-performance-btc-downtrend-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-price-erases-15-months-bull-market-69k-comedown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/tether-usdt-q4-2025-record-market-cap-onchain-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/nevada-loses-bid-to-halt-coinbase-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/bitcoin-etf-545-million-outflows-btc-nears-70k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

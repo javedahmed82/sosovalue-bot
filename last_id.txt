@@ -1,4 +1,3 @@
-https://cointelegraph.com/news/crypto-industry-proposes-compromises-advance-market-structure-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/crypto-made-undid-100m-incognito-dark-web-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/coinbase-premium-gap-falls-to-yearly-low-signalling-institutional-selling-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-etf-flows-performance-btc-downtrend-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +47,4 @@ https://cointelegraph.com/news/price-predictions-2-6-btc-eth-bnb-xrp-sol-doge-ad
 https://cointelegraph.com/news/bitcoin-dips-to-60k-trm-labs-becomes-crypto-unicorn-finance-redefined?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bithumb-confirms-reward-payout-error-after-abnormal-bitcoin-trades?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/kris-marszalek-ai-launches-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/crypto-stress-test-hits-balance-sheets-bitcoin-ether-collapse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

@@ -1,6 +1,3 @@
-https://cointelegraph.com/news/ethereum-l2-builders-respond-vitalik-rollup-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/canada-ciro-interim-crypto-custody-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/bitcoin-bounces-76k-but-data-suggests-btc-price-downtrend-not-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/mercado-bitcoin-expands-latam-rwa-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/crypto-investors-prioritize-infrastructure-over-defi-survey-finds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +45,6 @@ https://cointelegraph.com/news/gemini-exit-uk-eu-australia-slashes-workforce?utm
 https://cointelegraph.com/news/eu-tokenization-dlt-pilot-rules-risk-pushing-onchain-markets-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/will-bitcoin-rebound-to-dollar90k-by-march-here-s-what-btc-options-say?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/strategy-reports-12b-loss-q4-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/blackrock-ibit-daily-volume-record-10-billion-bitcoin-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/crypto-sentiment-at-lowest-point-since-luna-crash-as-btc-tanks-to-60k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/kalshi-boosts-predictions-markets-surveillance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

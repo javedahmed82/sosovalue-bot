@@ -1,6 +1,3 @@
-https://cointelegraph.com/news/bitnomial-launches-us-regulated-tezos-xtz-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/price-predictions-2-4-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-xmr?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/us-treasury-bessent-wont-bail-out-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-open-interest-falls-by-dollar55b-in-30-days-what-s-next-for-btc-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/telegram-pavel-durov-slams-spain-online-age-verification?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/cme-group-exploring-issuing-token?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +45,6 @@ https://cointelegraph.com/news/pump-fun-vyper-acquisition-trading-infrastructure
 https://cointelegraph.com/news/cathie-wood-ark-coinbase-dump-17-million-bullish-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/nft-market-cap-returns-pre-hype-levels-2021?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-price-rebounds-65k-who-is-buying-the-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/why-privacy-coins-often-appear-in-post-hack-fund-flows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/bitcoin-core-dev-gloria-zhao-quits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

@@ -1,4 +1,3 @@
-https://cointelegraph.com/news/bitcoin-bull-market-catalyst-us-federal-reserve-interest-rates-fall?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-google-search-volume-surges-btc-price-volatility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/crypto-erebor-first-new-us-bank-charter-trump-second-term?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/blackrock-bitcoin-etf-ibit-flows-trading-price-btc-volatile?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +47,4 @@ https://cointelegraph.com/news/price-predictions-2-9-spx-dxy-btc-eth-bnb-xrp-sol
 https://cointelegraph.com/news/ripple-expands-institutional-custody-stack-with-staking-and-security-integrations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/israel-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/polymarket-sues-massachusetts-claims-states-can-t-regulate-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/bitcoin-holders-sell-245k-btc-in-tight-macro-conditions-did-the-market-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

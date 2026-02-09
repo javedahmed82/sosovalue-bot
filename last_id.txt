@@ -1,6 +1,3 @@
-https://cointelegraph.com/news/banks-crypto-could-offer-similar-products-in-time-bessent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/tether-invests-150-million-in-gold-com?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/bitcoin-price-plunge-large-holders-supply-drops-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/metaplanet-vows-to-keep-buying-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-etf-434-million-outflows-price-touches-60k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-record-10k-drop-model-93-5k-only-return-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +45,6 @@ https://cointelegraph.com/news/only-10k-bitcoin-quantum-risk-coinshares?utm_sour
 https://cointelegraph.com/news/crypto-banks-input-fed-skinny-master-account-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bessent-suggests-warsh-nomination-hearings-alongside-powell-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/cryptocom-boss-launched-agentic-ai-tools-ai-com?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/bitcoin-sharpe-ratio-falls-bear-market-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/ens-abandons-plan-namechain-will-stay-on-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/coinbase-backstreet-boys-karaoke-return-super-bowl-ad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

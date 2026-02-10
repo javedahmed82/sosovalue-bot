@@ -1,6 +1,3 @@
-https://cointelegraph.com/news/vietnam-crypto-tax-0-1-percent-trading-levy-draft-policy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/bitcoin-fill-84k-futures-gap-very-soon-btc-rejects-above-2021-top?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/tether-freezes-544m-crypto-turkey-illegal-betting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/what-crashed-bitcoin-three-theories-btc-trip-below-60k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-difficulty-drops-11-worst-2021-china-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/cftc-stablecoins-national-trust-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +45,6 @@ https://cointelegraph.com/news/bitcoin-holders-sell-245k-btc-in-tight-macro-cond
 https://cointelegraph.com/news/eth-taps-dollar2-1k-as-crypto-macro-markets-rebound-is-the-bottom-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/mrbeast-acquires-gen-z-bank-step?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-sentiment-hits-record-low-as-contrarian-investors-say-dollar60k-was-btc-s-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/zero-privacy-highly-controlled-cbdcs-coming-soon-warns-ray-dalio?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/vitalik-buterin-shares-vision-how-ethereum-and-ai-will-work?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/crypto-exchange-backpack-launch-token-with-unlocks-tied-ipo-ambition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

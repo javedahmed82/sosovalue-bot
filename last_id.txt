@@ -1,4 +1,3 @@
-https://cointelegraph.com/news/bitcoin-sharpe-ratio-falls-bear-market-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/ens-abandons-plan-namechain-will-stay-on-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/coinbase-backstreet-boys-karaoke-return-super-bowl-ad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/btc-traders-wait-50k-bottom-five-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +47,4 @@ https://cointelegraph.com/explained/what-it-actually-takes-to-prove-someone-is-s
 https://cointelegraph.com/news/bitcoin-trading-growth-asset-not-digital-gold-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bank-of-england-selects-chainlink-for-synchronisation-lab-to-test-onchain-settlement-with-central-bank-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/rare-bitcoin-signal-flashes-will-a-220percent-btc-price-rally-follow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/ledger-wallet-integrates-okx-dex-expanding-on-device-access-to-defi-swaps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

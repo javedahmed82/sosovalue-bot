@@ -1,4 +1,3 @@
-https://cointelegraph.com/news/crypto-etp-selling-slowdown-187-million-outflows-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/ton-pay-aims-to-turn-telegram-into-a-crypto-checkout-layer-for-ton?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/xinbi-processed-17-9b-crypto-despite-telegram-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/infini-exploit-wallet-buys-ether-dip-tornado-cash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +47,4 @@ https://cointelegraph.com/news/state-street-us-dollar-decline-fed-rate-cuts?utm_
 https://cointelegraph.com/news/sam-bankman-fried-ftx-new-trial-fraud-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/top-bitcoin-traders-refuse-to-turn-bullish-despite-btc-s-14-rebound-here-s-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/large-demand-zone-below-dollar2k-eth-price-gives-signal-on-where-ether-may-go?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/crypto-miner-canaan-shares-fall-on-q4-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

@@ -1,4 +1,3 @@
-https://cointelegraph.com/news/price-predictions-2-9-spx-dxy-btc-eth-bnb-xrp-sol-doge-ada-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/ripple-expands-institutional-custody-stack-with-staking-and-security-integrations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/israel-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/polymarket-sues-massachusetts-claims-states-can-t-regulate-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +47,4 @@ https://cointelegraph.com/news/spot-bitcoin-etfs-add-167m-nearly-erase-last-week
 https://cointelegraph.com/news/judge-dismisses-bancor-patent-case-uniswap-abstract-ideas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/ethereum-holders-full-scale-accumulation-eth-price-drops-below-2k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/european-parliament-backs-ecb-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/hong-kong-sfc-crypto-margin-perps-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

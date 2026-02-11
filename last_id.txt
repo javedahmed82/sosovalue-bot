@@ -1,6 +1,3 @@
-https://cointelegraph.com/news/vitalik-buterin-defi-usdc-yield-stablecoin-critique?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/binance-buys-bitcoin-safu-reserve-market-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/canton-yuval-rooz-empty-shell-models?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/saylor-strategy-1142-bitcoin-purchase-79k-per-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-miner-cango-sells-btc-ai-hpc-pivot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +45,6 @@ https://cointelegraph.com/news/safemoon-ceo-sentenced-8-years-crypto-scam?utm_so
 https://cointelegraph.com/news/layerzero-launching-zero-blockchain-with-backing-from-citadel-ark?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/robinhood-shares-dip-q4-earnings-miss-crypto-revenues-decline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/tokenized-commodities-like-gold-reach-6-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/age-of-crypto-speculation-is-over-galaxy-novogratz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/crypto-banks-white-house-crypto-bill-meeting-productive-no-deal-reached?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/fairshake-barry-moore-alabama-senate-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

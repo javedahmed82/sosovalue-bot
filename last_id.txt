@@ -1,5 +1,3 @@
-https://cointelegraph.com/news/ethereum-holders-full-scale-accumulation-eth-price-drops-below-2k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/european-parliament-backs-ecb-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/hong-kong-sfc-crypto-margin-perps-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/why-bitcoin-has-recently-reacted-more-to-liquidity-conditions-than-to-rate-cuts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/arkham-exchange-pivots-to-decentralized-dex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +46,5 @@ https://cointelegraph.com/news/bitgo-expands-custody-and-staking-partnership-wit
 https://cointelegraph.com/news/fiserv-settlement-digital-asset-companies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/multi-day-negative-bitcoin-funding-signals-overcrowded-short-trade-time-for-a-reversal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/aptos-incubated-decibel-to-launch-protocol-native-stablecoin-via-stripe-owned-bridge-ahead-of-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/fed-initial-margin-crypto-derivative?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/bitcoin-in-capitulation-zone-as-traders-debate-when-btc-price-will-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

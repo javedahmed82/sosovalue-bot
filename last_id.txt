@@ -1,5 +1,3 @@
-https://cointelegraph.com/news/bank-of-england-selects-chainlink-for-synchronisation-lab-to-test-onchain-settlement-with-central-bank-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/rare-bitcoin-signal-flashes-will-a-220percent-btc-price-rally-follow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/ledger-wallet-integrates-okx-dex-expanding-on-device-access-to-defi-swaps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/state-street-us-dollar-decline-fed-rate-cuts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/sam-bankman-fried-ftx-new-trial-fraud-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +46,5 @@ https://cointelegraph.com/news/whatsapp-accuses-russia-of-trying-to-block-it-to-
 https://cointelegraph.com/news/ether-prices-v-shaped-recovery-says-tom-lee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/strategy-ceo-preferred-stock-fund-bitcoin-buys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/ark-buy-robinhood-34-million-bitcoin-slip-below-66k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/binance-completes-1b-bitcoin-safu-conversion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/bankers-push-occ-slow-crypto-trust-bank-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

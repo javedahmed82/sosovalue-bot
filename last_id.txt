@@ -1,5 +1,3 @@
-https://cointelegraph.com/news/why-bitcoin-has-recently-reacted-more-to-liquidity-conditions-than-to-rate-cuts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/arkham-exchange-pivots-to-decentralized-dex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/xrp-analysts-why-price-drop-below-1-dollar-possible?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/sam-bankman-fried-rule-33-new-trial-doj?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/africa-stablecoin-fx-spreads-january-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +46,5 @@ https://cointelegraph.com/news/aptos-incubated-decibel-to-launch-protocol-native
 https://cointelegraph.com/news/fed-initial-margin-crypto-derivative?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-in-capitulation-zone-as-traders-debate-when-btc-price-will-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/coinbase-667m-loss-q4-earnings-miss-crypto-market-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/cftc-innovation-advisory-committee-includes-crypto-execs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/crypto-pac-spending-against-al-green-texas-primary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

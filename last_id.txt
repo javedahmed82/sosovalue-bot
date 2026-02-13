@@ -1,4 +1,3 @@
-https://cointelegraph.com/news/ondo-integrates-chainlink-data-feeds-for-tokenized-stocks-on-ethereum-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/coinbase-launches-crypto-wallets-built-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/crypto-lender-blockfills-suspended-withdrawals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/ethereum-devs-propose-zero-knowledge-ai-api-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +47,4 @@ https://cointelegraph.com/news/binance-france-exec-home-invasion-arrests-report?
 https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-passes-68k-on-slower-us-cpi-print-but-fed-rate-cut-odds-stay-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-most-undervalued-since-march-2023-classic-btc-price-metric-shows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/crypto-sentiment-rise-clarity-passed-bessent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

@@ -1,4 +1,3 @@
-https://cointelegraph.com/news/ai-infrastructure-supercycle-bitcoin-miners-pivot-data-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/trump-wlfi-foreign-exchange-remittance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-analysts-predict-prolonged-consolidation-phase-for-btc-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/eth-etf-holders-in-worse-position-than-btc-etf-peers-as-crypto-market-looks-for-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +47,4 @@ https://cointelegraph.com/news/all-social-benefit-programs-onchain?utm_source=rs
 https://cointelegraph.com/news/x-nikita-bier-in-app-trading-couple-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/prediction-markets-hedging-buterin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/roundhill-investments-event-contracts-prediction-markets-etf-united-states-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/bitcoin-quantum-computing-risk-institutions-developers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

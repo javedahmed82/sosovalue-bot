@@ -1,5 +1,3 @@
-https://cointelegraph.com/news/okx-secures-eu-payment-license-to-expand-stablecoin-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/willy-woo-bitcoin-quantum-risk-gold-lost-coins-post-quantum-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/crypto-etf-4-week-outflows-173-million-btc-below-70k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/75k-or-bearish-regime-shift-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/binance-denies-iran-sanctions-report-fortune?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +46,5 @@ https://cointelegraph.com/news/bitcoin-chart-pattern-whale-activity-warn-of-anot
 https://cointelegraph.com/news/traders-pinpoint-three-price-targets-for-bitcoin-if-dollar70k-holds-as-resistance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/new-bitcoin-whales-are-trapped-underwater-but-for-how-long?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/hive-revenue-surge-artificial-intelligence-expansion-bitcoin-mining-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/quantoz-gains-visa-principal-membership-to-issue-stablecoin-linked-debit-cards-in-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/bridge-stripe-occ-approval-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

@@ -1,6 +1,3 @@
-https://cointelegraph.com/news/nexo-relaunch-united-states?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/how-south-korea-is-using-ai-to-detect-crypto-market-manipulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/tokenized-rwas-climb-despite-crypto-market-rout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/harvard-stake-blackrock-bitcoin-etf-ether-investments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-weekly-rsi-echoes-mid-2022-bear-market-as-btc-plays-liquidity-games?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-accumulation-wave-puts-dollar80k-back-in-play-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +45,6 @@ https://cointelegraph.com/news/coin-center-asks-senate-crypto-developer-protecti
 https://cointelegraph.com/news/the-digital-chamber-launches-prediction-market-working-group?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitwise-graniteshares-join-roundhill-filing-prediction-market-style-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-divergence-tech-fire-alarm-fiat-system-hayes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/pumpfun-launches-cashback-coins-rewards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/4-data-points-suggest-xrp-price-bottomed-at-dollar1-12-are-bulls-ready-to-take-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/nevada-sues-kalshi-after-prediction-market-loses-bid-to-stop-state-action?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

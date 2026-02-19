@@ -1,6 +1,3 @@
-https://cointelegraph.com/news/moonwell-exploit-cbeth-oracle-misprice-ai-commits-testing-audits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/europe-blockchain-sandbox-innovation-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/ecb-digital-euro-pilot-2027-psp-selection-2026-cipollone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/modern-treasury-integrates-stablecoin-settlement-alongside-ach-and-wires?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/wlfi-token-trump-mar-a-lago-crypto-forum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +45,6 @@ https://cointelegraph.com/news/bitcoin-etfs-53b-net-inflows-after-selloff?utm_so
 https://cointelegraph.com/news/ripple-ceo-white-house-meeting-crypto-banking-clarity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/proshares-launches-treasury-etf-structured-to-qualify-for-stablecoin-reserves-under-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/tightening-bitcoin-bollinger-bands-forecast-explosive-price-move-but-which-way?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/sec-leadership-future-securities-ethdenver?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/bitcoin-s-monthly-losses-break-records-but-history-says-a-turnaround-is-brewing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/bitcoin-lightning-network-1b-monthly-volume?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

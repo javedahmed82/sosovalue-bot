@@ -1,5 +1,3 @@
-https://cointelegraph.com/news/macro-headwinds-test-bitcoin-price-as-dollar70k-crumbles-amid-us-market-volatility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/top-crypto-treasury-companies-strategy-and-bitmine-add-to-btc-eth-stacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-stays-pinned-below-70k-as-btc-s-negative-funding-rate-flashes-warning-sign?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/amid-crypto-vc-shakeout-dragonfly-closes-650m-fund-with-focus-on-real-world-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/cftc-michael-selig-defending-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +46,5 @@ https://cointelegraph.com/news/bitcoin-s-consolidation-nears-turning-point-as-do
 https://cointelegraph.com/news/cointelegraph-longitude-us-clarity-act-quantum-computing-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/aptos-eyes-tokenomics-update-that-will-turn-apt-deflationary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/warren-urges-fed-treasury-not-to-bail-out-crypto-billionaires?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/kalshi-data-should-guide-federal-reserve-policy-researchers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/crypto-us-clarity-act-coinbase-brian-armstrong-bernie-moreno?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

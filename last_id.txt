@@ -1,5 +1,3 @@
-https://cointelegraph.com/news/hive-revenue-surge-artificial-intelligence-expansion-bitcoin-mining-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/quantoz-gains-visa-principal-membership-to-issue-stablecoin-linked-debit-cards-in-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bridge-stripe-occ-approval-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/ether-bulls-target-2-5k-as-staking-etf-launch-rwa-market-cap-reflect-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/zora-launches-attention-markets-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +46,5 @@ https://cointelegraph.com/news/why-address-poisoning-works-without-stealing-priv
 https://cointelegraph.com/news/bitcoin-etf-133-million-outflows-extreme-fear-sentiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/ledn-bitcoin-backed-abs-188m-sp-ratings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/morgan-stanley-bitmine-shareholders-bmnr-holdings-stock-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/south-korea-prosecutors-recover-320-bitcoin-returned-phishing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/robinhood-l2-testnet-4m-transactions-first-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

@@ -1,6 +1,3 @@
-https://cointelegraph.com/news/bitcoin-stays-pinned-below-70k-as-btc-s-negative-funding-rate-flashes-warning-sign?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/amid-crypto-vc-shakeout-dragonfly-closes-650m-fund-with-focus-on-real-world-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/cftc-michael-selig-defending-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/kraken-integrates-with-ice-chat-to-expand-institutional-otc-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-chart-pattern-whale-activity-warn-of-another-20-price-drop?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/traders-pinpoint-three-price-targets-for-bitcoin-if-dollar70k-holds-as-resistance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +45,6 @@ https://cointelegraph.com/news/aptos-eyes-tokenomics-update-that-will-turn-apt-d
 https://cointelegraph.com/news/warren-urges-fed-treasury-not-to-bail-out-crypto-billionaires?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/kalshi-data-should-guide-federal-reserve-policy-researchers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/crypto-us-clarity-act-coinbase-brian-armstrong-bernie-moreno?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/fed-sees-possibility-of-upward-adjustments-to-rates-if-inflation-remains-above-target-levels?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/crypto-tradfi-execs-mingle-trump-crypto-event?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/ethereum-foundation-quantum-gas-limit-priorities-protocol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

@@ -1,6 +1,3 @@
-https://cointelegraph.com/news/wlfi-token-trump-mar-a-lago-crypto-forum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/societe-generale-forge-expands-euro-stablecoin-to-xrp-ledger-in-multi-chain-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/bitcoin-early-2024-buyers-steady-btc-price-as-trader-sees-52k-next-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/treasury-bills-primary-driver-bitcoin-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/price-predictions-2-18-btc-eth-xrp-bnb-sol-doge-bch-ada-hype-xmr?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/riot-platform-ai-hpc-profit-stockholder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +45,6 @@ https://cointelegraph.com/news/bitcoin-s-monthly-losses-break-records-but-histor
 https://cointelegraph.com/news/bitcoin-lightning-network-1b-monthly-volume?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/kraken-xstocks-25b-tokenized-equities-volume?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-options-market-structure-leans-toward-60k-retest-in-february?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/ai-agents-wont-steal-jobs-if-theyre-too-expensive-to-run?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/bitcoin-price-quantum-computing-fears-ethereum-developer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/illicit-stablecoin-activity-hits-five-year-high-at-141b-trm-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

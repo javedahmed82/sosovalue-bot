@@ -1,4 +1,3 @@
-https://cointelegraph.com/news/crypto-tradfi-execs-mingle-trump-crypto-event?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/ethereum-foundation-quantum-gas-limit-priorities-protocol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/why-address-poisoning-works-without-stealing-private-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-etf-133-million-outflows-extreme-fear-sentiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +47,4 @@ https://cointelegraph.com/news/bitcoin-difficulty-rebounds-15-as-us-miners-recov
 https://cointelegraph.com/news/price-predictions-2-20-btc-eth-xrp-bnb-sol-doge-bch-ada-hype-xmr?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/wall-street-boosts-bitmine-stakes-defi-lenders-buckle-liquidity-finance-redefined?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/scotus-strikes-trump-tariffs-alternative-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/trump-10-global-tariff-scotus-ruling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

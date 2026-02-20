@@ -1,5 +1,3 @@
-https://cointelegraph.com/news/riot-platform-ai-hpc-profit-stockholder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/ether-bear-pennant-puts-target-on-1-1k-eth-price-here-s-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/derivadex-launches-bermuda-licensed-derivatives-exchange-under-dao-governance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/dollar209b-exited-altcoins-over-the-last-13-months-did-traders-rotate-into-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/sol-s-path-of-least-resistance-tilts-toward-dollar50-but-onchain-data-hints-at-a-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +46,5 @@ https://cointelegraph.com/news/bitcoin-price-quantum-computing-fears-ethereum-de
 https://cointelegraph.com/news/illicit-stablecoin-activity-hits-five-year-high-at-141b-trm-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/fed-neel-kashkari-lashes-crypto-and-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitdeer-stock-drops-17-after-convertible-senior-note-offering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/crypto-banks-meet-white-house-stablecoin-rewards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/parsec-defi-nft-analytics-platform-closes-market-volatility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

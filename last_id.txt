@@ -1,6 +1,3 @@
-https://cointelegraph.com/news/dutch-authorities-call-on-polymarket-arm-to-cease-activities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/bitcoin-bears-at-risk-of-600m-liquidation-raising-chance-for-rally-to-70k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/bitcoin-whales-participate-in-v-shaped-accumulation-offsetting-230k-btc-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/tokenized-real-estate-advance-dubai-maldives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-price-catalyst-ai-stocks-peak-economist-lyn-alden?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/uniswap-fake-ads-drain-user-wallets-hayden-adams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +45,6 @@ https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed
 https://cointelegraph.com/bitcoin-for-beginners/how-many-people-actually-pay-with-bitcoin-real-use-cases-revealed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-traders-diverge-over-btc-price-strength-with-60k-in-sight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/us-lender-rate-unveils-mortgage-program-recognizing-crypto-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/occ-crypto-com-conditional-approval-national-bank-trust-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/xrp-price-chart-whale-activity-warn-drop-below-1-dollar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/iqmm-s-17b-debut-strengthens-case-for-tokenized-money-market-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

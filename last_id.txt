@@ -1,5 +1,3 @@
-https://cointelegraph.com/news/bitcoin-price-quantum-computing-fears-ethereum-developer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/illicit-stablecoin-activity-hits-five-year-high-at-141b-trm-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/fed-neel-kashkari-lashes-crypto-and-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitdeer-stock-drops-17-after-convertible-senior-note-offering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/crypto-banks-meet-white-house-stablecoin-rewards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +46,5 @@ https://cointelegraph.com/news/vitalik-buterin-advocates-intent-based-security?u
 https://cointelegraph.com/news/crypto-exchange-network-helping-russia-skirt-sanctions-elliptic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/michael-saylor-hints-strategy-100th-bitcoin-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/missouri-bitcoin-strategic-reserve-hb2080-advance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/openai-employee-s-ai-agent-accidentally-sent-442k-to-beggar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/bitcoin-etf-united-states-metaplanet-btc-treasury-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

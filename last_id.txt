@@ -1,5 +1,3 @@
-https://cointelegraph.com/news/disagreement-healthy-sign-dao-curve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/bitgo-issuer-fyusd-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/sec-broker-dealer-2-haircut-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/vitalik-buterin-advocates-intent-based-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/crypto-exchange-network-helping-russia-skirt-sanctions-elliptic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +46,5 @@ https://cointelegraph.com/news/binance-stablecoin-reserves-have-sunk-19-since-no
 https://cointelegraph.com/news/citrini-fearful-ai-agent-report-scares-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/terraform-admin-sues-jane-street-pins-collapse-on-alleged-insider-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/trm-labs-finray-crypto-fiat-monitoring-mica-compliance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/cybersecurity-stocks-tank-following-launch-claude-code-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/crypto-vc-framework-ventures-help-better-with-500m-defi-play?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

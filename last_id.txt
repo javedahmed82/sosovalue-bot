@@ -1,5 +1,3 @@
-https://cointelegraph.com/news/trm-labs-finray-crypto-fiat-monitoring-mica-compliance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/cybersecurity-stocks-tank-following-launch-claude-code-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/crypto-vc-framework-ventures-help-better-with-500m-defi-play?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/canaan-buys-49-stake-texas-bitcoin-mining-sites-40m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/redotpay-eyes-us-ipo-1b-4b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +46,5 @@ https://cointelegraph.com/news/aave-dao-governance-dispute-aave-labs-50m-package
 https://cointelegraph.com/news/fg-nexus-offloads-14m-in-eth-corporate-ethereum-treasuries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/south-korea-finfluencer-crypto-stock-disclosure-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/uk-fca-names-first-4-firms-to-test-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/strategy-yield-europe-21shares-strc-etp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

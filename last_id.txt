@@ -1,6 +1,3 @@
-https://cointelegraph.com/news/stablecore-jack-henry-bank-stablecoin-integration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/price-predictions-2-23-spx-dxy-btc-eth-xrp-bnb-sol-doge-bch-ada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/critical-bitcoin-weekly-trend-breaks-for-first-time-in-2-years-is-btc-done?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/donald-trump-stablecoins-gaza?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/negative-bitcoin-funding-rate-may-signal-pending-short-squeeze-above-dollar70k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/paypal-buyout-approaches-share-decline-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +45,6 @@ https://cointelegraph.com/news/anthropic-faces-industrial-scale-distillation-att
 https://cointelegraph.com/news/blockchain-association-crypto-tax-plan-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/stripe-considers-acquiring-paypal-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-depot-mandatory-id-verification-crypto-atms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/payoneer-latest-crypto-fintech-file-occ-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/bitcoin-captures-65k-after-us-stocks-rebound-from-ai-sell-off-will-it-hold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/south-korea-man-accused-poisoning-crypto-losses-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

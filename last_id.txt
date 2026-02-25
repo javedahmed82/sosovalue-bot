@@ -1,4 +1,3 @@
-https://cointelegraph.com/news/telegram-ceo-reportedly-under-criminal-probe-in-russia-over-alleged-terrorism-links?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/stablecoin-supply-falls-crypto-liquidity-headwind-gold-rotation-xaut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/vitalik-buterin-reduces-eth-balance-17k-after-45m-privacy-pledge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/solo-bitcoin-miner-rare-btc-jackpot-rented-hashrate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +47,4 @@ https://cointelegraph.com/news/tokenized-us-treasurys-rise-1b-2026?utm_source=rs
 https://cointelegraph.com/news/bitcoin-tops-dollar68k-after-stock-market-rebound-strong-earnings-data-boost-risk-appetite?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/hut-8-swings-to-248m-loss-as-7b-ai-data-center-lease-anchors-pivot-from-bitcoin-mining?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/price-predictions-2-25-btc-eth-xrp-bnb-sol-doge-bch-ada-hype-xmr?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/kraken-launches-flexline-crypto-backed-loans-as-exchanges-revive-lending-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

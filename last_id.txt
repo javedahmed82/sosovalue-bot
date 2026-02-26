@@ -1,6 +1,3 @@
-https://cointelegraph.com/news/bitwise-acquires-crypto-staking-provider-chorus-one?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/anthropic-faces-industrial-scale-distillation-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/blockchain-association-crypto-tax-plan-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/stripe-considers-acquiring-paypal-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-depot-mandatory-id-verification-crypto-atms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/payoneer-latest-crypto-fintech-file-occ-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +45,6 @@ https://cointelegraph.com/news/gate-malta-psd2-payment-license-eu?utm_source=rss
 https://cointelegraph.com/news/indiana-crypto-rights-bill-governor-signature?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-traders-explain-why-80k-next-target-for-bulls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/rising-middle-east-tensions-safe-haven-demand-gold-investors-flee-equities-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/okx-integrates-chainalysis-alterya-for-pre-withdrawal-scam-screening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/grvt-aave-composable-yield-perp-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/mastercard-metamask-us-crypto-card-new-york-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

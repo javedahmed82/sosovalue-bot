@@ -1,5 +1,3 @@
-https://cointelegraph.com/news/bitcoin-adoption-is-booming-even-if-its-price-isn-t-river?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/hong-kong-expand-tokenized-bond-infrastructure-hkma-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/spot-bitcoin-etfs-257m-inflows-fbtc-ibit-bitcoin-65k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/us-seizes-61m-tether-pig-butchering-crypto-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/anchorage-digital-holds-strategy-strc-most-shorted-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +46,5 @@ https://cointelegraph.com/news/bitcoin-10am-dump-theory-jane-street-ibit-13f-ter
 https://cointelegraph.com/news/bitcoin-bear-market-not-over-already-price-rejects-68k-trend-line?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/coin-bureau-ceo-on-bitcoin-in-2026-cycles-liquidity-and-a-divided-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/ethereum-reclaims-2k-volatility-spike-backs-eth-price-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/sam-bankman-fried-trial-court-government-response?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/ai-bitcoin-miners-high-yield-bonds-data-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

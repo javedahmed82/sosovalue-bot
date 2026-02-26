@@ -1,5 +1,3 @@
-https://cointelegraph.com/news/coinbase-opens-stock-and-etf-trading-to-all-us-users-in-multi-asset-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/crypto-derivatives-eu-regulations-esma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/eth-bounces-off-1-8k-as-multiple-ether-price-metrics-point-to-prolonged-weakness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitwise-acquires-crypto-staking-provider-chorus-one?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/anthropic-faces-industrial-scale-distillation-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +46,5 @@ https://cointelegraph.com/news/whale-loses-8-2m-arc-squeeze-lighter-perps-liquid
 https://cointelegraph.com/news/occ-proposal-aims-to-end-stablecoin-yield-debate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-etf-rise-507-million-inflows-btc-reclaims-68k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/gate-malta-psd2-payment-license-eu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/indiana-crypto-rights-bill-governor-signature?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/bitcoin-traders-explain-why-80k-next-target-for-bulls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

@@ -1,4 +1,3 @@
-https://cointelegraph.com/news/polymarket-bets-zachxbt-insider-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/key-bitcoin-onchain-signal-may-mark-btc-s-next-demand-revival?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/moonpay-launches-agents-giving-ai-systems-wallets-and-onchain-cash-flow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/kraken-launches-regulated-tokenized-equity-perpetual-futures-for-global-traders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +47,4 @@ https://cointelegraph.com/news/wlfi-180-day-governance-staking-usd1-incentives?u
 https://cointelegraph.com/news/sygnum-launches-professional-crypto-treasury-management-services-embargo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/is-xrp-price-setting-up-20-percent-bounce-march?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/allunity-swiss-franc-stablecoin-chfau-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/whale-loses-8-2m-arc-squeeze-lighter-perps-liquidation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

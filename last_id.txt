@@ -1,4 +1,3 @@
-https://cointelegraph.com/news/binance-ceo-legal-action-report-iranian-entities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/sec-grants-relief-for-24-7-trading-of-wisdomtree-s-tokenized-money-market-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/empery-digital-shareholder-demands-bitcoin-sale-ceo-resignation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/longest-ether-dip-since-2022-ignored-by-whales-what-s-next-for-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +47,4 @@ https://cointelegraph.com/news/aave-reaches-1-trillion-lending-volume?utm_source
 https://cointelegraph.com/news/vitalik-details-roadmap-for-faster-quantum-resistant-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/stripe-ai-agents-will-require-blockchains-hit-1b-transactions-per-second?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/wall-street-loud-crypto-investors-not-listening-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/wlfi-180-day-governance-staking-usd1-incentives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

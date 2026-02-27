@@ -1,5 +1,3 @@
-https://cointelegraph.com/news/circle-q4-earnings-usdc-75b-revenue-2025-shares-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/solana-leads-crypto-recovery-10-percent-100-dollars-sol-price-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/tokenized-us-treasurys-rise-1b-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-tops-dollar68k-after-stock-market-rebound-strong-earnings-data-boost-risk-appetite?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/hut-8-swings-to-248m-loss-as-7b-ai-data-center-lease-anchors-pivot-from-bitcoin-mining?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +46,5 @@ https://cointelegraph.com/news/jack-dorsey-block-cuts-4000-jobs-ai-restructuring
 https://cointelegraph.com/news/bitcoin-large-wallet-holders-growing-bullish-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/vitalik-proposes-4-fixes-quantum-resistance-roadmap-for-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/ransomware-attacks-rose-50-in-2025-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/ether-price-geopolitical-macro-uncertainty-catalysts-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/bearish-bitcoin-selloff-by-investors-is-exhausted-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

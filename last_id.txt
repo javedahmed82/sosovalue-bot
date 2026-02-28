@@ -1,4 +1,3 @@
-https://cointelegraph.com/news/rex-launches-income-etf-bundling-leveraged-covered-call-exposure-to-coinbase-strategy-and-other-growth-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/polymarket-bets-zachxbt-investigation-axiom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-adoption-booming-while-price-chops-which-metrics-matter-most?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bloomberg-extends-financial-data-to-25b-tokenized-markets-via-kaiko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +47,4 @@ https://cointelegraph.com/news/mt-gox-former-ceo-proposes-hard-fork-recover-lost
 https://cointelegraph.com/news/openai-defense-contract-anthropic-ban-classified-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-price-drops-63k-us-israel-bomb-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/tether-freezes-4-2b-usdt-illicit-activity-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/institutions-prefer-eth-faster-blockchains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

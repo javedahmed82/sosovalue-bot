@@ -1,4 +1,3 @@
-https://cointelegraph.com/news/coin-bureau-ceo-on-bitcoin-in-2026-cycles-liquidity-and-a-divided-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/ethereum-reclaims-2k-volatility-spike-backs-eth-price-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/sam-bankman-fried-trial-court-government-response?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/ai-bitcoin-miners-high-yield-bonds-data-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +47,4 @@ https://cointelegraph.com/news/3-solana-data-points-highlight-resilience-but-is-
 https://cointelegraph.com/news/bitcoin-price-slump-versus-gold-s-gains-highlights-evolving-crypto-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/crypto-vc-paradigm-invest-ai-robotics-frontier-tech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/morgan-stanley-applies-bank-charter-custody-trade-stake-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/mt-gox-former-ceo-proposes-hard-fork-recover-lost-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

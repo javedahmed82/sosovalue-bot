@@ -1,6 +1,3 @@
-https://cointelegraph.com/news/crypto-vc-paradigm-invest-ai-robotics-frontier-tech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/morgan-stanley-applies-bank-charter-custody-trade-stake-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/mt-gox-former-ceo-proposes-hard-fork-recover-lost-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/openai-defense-contract-anthropic-ban-classified-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-price-drops-63k-us-israel-bomb-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/tether-freezes-4-2b-usdt-illicit-activity-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +45,6 @@ https://cointelegraph.com/news/northern-trust-enters-tokenized-fund-race-with-bl
 https://cointelegraph.com/news/price-predictions-3-2-spx-dxy-btc-eth-xrp-bnb-sol-doge-bch-ada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-company-fold-pays-off-66m-debt-frees-up-btc-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/united-states-crypto-market-structure-before-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/monad-gains-bitcoin-backed-liquidity-through-chainlink-powered-cbbtc-bridge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/bitfinex-relaunches-tokenized-bond-program-on-bitcoin-s-liquid-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/nyse-tokenized-stocks-td-securities-market-impact?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

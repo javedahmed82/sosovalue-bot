@@ -1,4 +1,3 @@
-https://cointelegraph.com/news/uniswap-beats-class-action-alleging-helped-crypto-rug-pulls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/fed-blocked-issuing-cbdc-until-2030-proposed-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/openzeppelin-audits-openai-evmbench-finds-data-contamination?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/nasdaq-files-prediction-market-offering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +47,4 @@ https://cointelegraph.com/news/bitcoin-etf-225-million-inflows-blackrock-ibit-co
 https://cointelegraph.com/news/x-90-day-revenue-sharing-ban-undisclosed-ai-conflict-videos?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-price-nears-one-month-high-as-bulls-propel-btc-toward-72k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/situational-awareness-aschenbrenner-13f-ai-infrastructure-power-core-scientific?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/fatf-says-stablecoins-now-dominate-illicit-crypto-flows-including-sanctions-evasion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

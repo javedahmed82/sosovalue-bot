@@ -1,5 +1,3 @@
-https://cointelegraph.com/news/bitcoin-etf-inflows-458-million-mideast-conflict-widens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/riot-record-647m-revenue-2025-bitcoin-mining-ai-pivot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/prediction-markets-trading-block-nevada-court-ruling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-price-chart-death-cross-back-late-cycle-fears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/stablecoin-deposits-monetary-policy-europe-ecb?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +46,5 @@ https://cointelegraph.com/news/uk-lords-grill-coinbase-over-stablecoins?utm_sour
 https://cointelegraph.com/news/bitcoin-real-time-sentiment-gauge-weekend-war?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/redstone-launches-stellar-price-oracles-defi-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-still-due-next-leg-down-72k-btc-price-precedes-death-cross?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/morgan-stanley-coinbase-bny-bitcoin-etf-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/why-peter-thiel-s-founders-fund-walked-away-from-an-ether-treasury-bet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

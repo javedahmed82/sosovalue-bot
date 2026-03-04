@@ -1,5 +1,3 @@
-https://cointelegraph.com/news/stablecoin-deposits-monetary-policy-europe-ecb?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/sanae-token-27m-japan-pm-denies-links-fsa-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/ai-driven-onchain-monitoring-300m-losses-bybit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/deloitte-signs-off-reserves-tether-linked-usat-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/aave-aci-exit-dao-governance-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +46,5 @@ https://cointelegraph.com/news/morgan-stanley-coinbase-bny-bitcoin-etf-custody?u
 https://cointelegraph.com/news/why-peter-thiel-s-founders-fund-walked-away-from-an-ether-treasury-bet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/giving-block-stablecoin-donations-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/mexc-expands-tokenized-stock-offerings-with-new-ondo-finance-listings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/price-predictions-3-4-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/tradeweb-leads-31m-round-in-crypto-ecn-crossover-markets-entering-institutional-trading-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

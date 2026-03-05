@@ -1,4 +1,3 @@
-https://cointelegraph.com/news/bitcoin-dives-3-percent-asset-rout-5k-gold-smashed-oil-fears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/american-bitcoin-adds-3ehs-mining-capacity-expands-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/mining-companies-ai-hpc-mara-sell-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/explained/why-bermuda-is-testing-a-fully-onchain-economy-instead-of-crypto-mandates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +47,4 @@ https://cointelegraph.com/news/suckers-rally-why-bitcoin-analysts-say-btc-price-
 https://cointelegraph.com/news/donald-trump-fed-nomination-kevin-warsh-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/western-union-taps-crossmint-to-support-solana-based-usd-stablecoin-and-digital-asset-payout-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoins-bullish-momentum-accelerates-but-topping-78k-remains-a-challenge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/elon-musk-taps-captain-kirk-for-x-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

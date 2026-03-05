@@ -1,4 +1,3 @@
-https://cointelegraph.com/news/bitcoin-real-time-sentiment-gauge-weekend-war?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/redstone-launches-stellar-price-oracles-defi-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-still-due-next-leg-down-72k-btc-price-precedes-death-cross?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/morgan-stanley-coinbase-bny-bitcoin-etf-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +47,4 @@ https://cointelegraph.com/news/cleanspark-sells-most-february-bitcoin-output-gen
 https://cointelegraph.com/news/bitcoin-miners-unwind-btc-treasuries-margin-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/irs-proposes-electronic-delivery-tax-form?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/ether-s-path-to-2-5k-may-be-trickier-than-expected-here-s-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/justin-sun-sec-lawsuit-settles-10-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

@@ -1,6 +1,3 @@
-https://cointelegraph.com/news/bitcoin-still-due-next-leg-down-72k-btc-price-precedes-death-cross?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/morgan-stanley-coinbase-bny-bitcoin-etf-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/why-peter-thiel-s-founders-fund-walked-away-from-an-ether-treasury-bet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/giving-block-stablecoin-donations-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/mexc-expands-tokenized-stock-offerings-with-new-ondo-finance-listings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/price-predictions-3-4-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +45,6 @@ https://cointelegraph.com/news/irs-proposes-electronic-delivery-tax-form?utm_sou
 https://cointelegraph.com/news/ether-s-path-to-2-5k-may-be-trickier-than-expected-here-s-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/justin-sun-sec-lawsuit-settles-10-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/construction-quantum-facility-1m-qubits-begins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/dems-plan-bill-prediction-markets-bets-iran-strikes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/tokenized-securities-same-capital-rules-us-regulators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/hacker-steals-nearly-3-million-from-solv-protocol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

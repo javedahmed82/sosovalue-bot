@@ -1,4 +1,3 @@
-https://cointelegraph.com/news/cleanspark-sells-most-february-bitcoin-output-generating-36-6m-in-proceeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-miners-unwind-btc-treasuries-margin-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/irs-proposes-electronic-delivery-tax-form?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/ether-s-path-to-2-5k-may-be-trickier-than-expected-here-s-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +47,4 @@ https://cointelegraph.com/news/cz-says-cexs-zero-motive-aid-terrorists-court-dis
 https://cointelegraph.com/news/bitcoin-bull-trap-bear-market-phase-middle-willy-woo-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/united-states-cbdc-federal-reserve-lawmakers-dispute-letter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/spot-bitcoin-etfs-second-weekly-inflows-five-months-ether-etfs-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/ai-agent-attempts-crypto-mining-during-training-researchers-say?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

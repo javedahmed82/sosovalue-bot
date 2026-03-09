@@ -1,5 +1,3 @@
-https://cointelegraph.com/news/dems-plan-bill-prediction-markets-bets-iran-strikes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/tokenized-securities-same-capital-rules-us-regulators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/hacker-steals-nearly-3-million-from-solv-protocol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/solana-etfs-impressive-numbers-token-dives-since-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-gold-outperform-prediction-macroeconomist-lyn-alden?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +46,5 @@ https://cointelegraph.com/news/michael-jordan-oscars-best-actor-polymarket?utm_s
 https://cointelegraph.com/news/brazil-pix-payments-expand-argentina?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/saylor-signals-bitcoin-buy-btc-near-66k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-falls-oil-rises-middle-eastern-conflict?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/us-banks-need-crypto-regulatory-clarity-giancarlo-cftc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/bitcoin-correlation-tech-stocks-overblown-nydig?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

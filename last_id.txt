@@ -1,4 +1,3 @@
-https://cointelegraph.com/news/bitcoin-anomalous-exchange-outflow-32k-btc-leave-bitfinex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-etfs-228-million-outflows-bear-market-persists?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/was-74k-a-bull-trap-bitcoin-traders-diverge-on-2022-crash-repeating?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/tokenized-rwas-buck-the-slump-1inch-ondo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +47,4 @@ https://cointelegraph.com/news/biggest-oil-supply-shock-ever-five-things-bitcoin
 https://cointelegraph.com/news/crypto-etp-619-million-inflows-resilience-iran-crisis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/coinbase-perpetual-futures-contracts-europe-esma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-67k-oil-shock-strongest-indicator-bottom-may-be-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/nasdaq-kraken-issuer-centric-tokenized-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

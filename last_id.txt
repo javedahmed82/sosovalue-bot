@@ -1,6 +1,3 @@
-https://cointelegraph.com/news/financial-institutions-bought-540m-solana-etfs-q4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/us-prosecutors-seek-retrial-tornado-cash-roman-storm-after-mixed-verdict?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/vitalik-distributed-validator-technology-lite-simplify-institutional-eth-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bhutan-moves-11-8m-btc-from-national-stash-arkham?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/tron-joins-agentic-ai-foundation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/blackstone-airtrunk-1-24b-loan-tokyo-ai-data-center-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +45,6 @@ https://cointelegraph.com/news/us-seeks-forfeiture-3-4m-usdt-crypto-investment-s
 https://cointelegraph.com/news/xrp-price-chart-mirrors-2017-rally-but-theres-a-catch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/ecb-appia-roadmap-europe-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/doj-investigates-binance-s-role-in-alleged-iran-sanctions-evasion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/wells-fargo-files-trademark-crypto-trading-payments-wfusd?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/scaling-ai-makes-riskier?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/us-senate-bill-targets-prediction-markets-on-war-and-assassinations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

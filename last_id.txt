@@ -1,4 +1,3 @@
-https://cointelegraph.com/news/strategy-strc-record-share-sales-atm-rule-change?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/cftc-chair-backs-blockchain-prediction-markets-truth-machines?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/trust-wallet-address-poisoning-protection-32-evm-chains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +47,4 @@ https://cointelegraph.com/news/strive-allocates-50m-of-treasury-to-strategy-s-st
 https://cointelegraph.com/news/ben-mckenzie-crypto-skeptic-documentary-sbf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/three-bitcoin-binance-charts-reveal-setup-behind-next-move?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/higher-cpi-print-march-baked-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/foundry-to-launch-institutional-grade-zcash-mining-pool-in-april?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

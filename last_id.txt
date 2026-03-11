@@ -1,6 +1,3 @@
-https://cointelegraph.com/news/price-predictions-3-9-spx-dxy-btc-eth-bnb-xrp-sol-doge-ada-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/wyoming-senator-cynthia-lummis-crypto-tax-exemption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/jito-foundation-acquires-solanafloor-to-revive-solana-ecosystem-journalism?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/aon-stablecoin-payments-insurance-premiums-paxos-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/nasdaq-partners-with-boerse-stuttgart-s-seturion-to-advance-tokenized-securities-settlement-in-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/will-bitcoin-follow-oil-historic-surge-and-rally-to-79k-before-end-of-march?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +45,6 @@ https://cointelegraph.com/news/bitcoiner-arthur-hayes-hesitant-buying-btc-federa
 https://cointelegraph.com/news/bitcoin-sentiment-jumps-back-into-fomo-territory-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/ai-boost-jobs-trillions-dollars-infrastructure-needed-nvidia-huang?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/crypto-shouldnt-treated-seperate-asset-class-asic-fintech-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/crypto-banks-need-to-be-unhappy-crypto-bill-advance-senator?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/1m-btc-plausible-if-it-follows-gold-trajectory-bitwise-cio?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/aave-founder-says-daos-must-evolve-governance-conflicts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

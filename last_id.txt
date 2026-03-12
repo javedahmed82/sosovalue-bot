@@ -1,6 +1,3 @@
-https://cointelegraph.com/news/bitgo-partners-with-stablex-to-support-stablecoin-infrastructure-investments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/circle-stock-surges-bernstein-stablecoin-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/ether-funding-rate-flips-negative-are-eth-bears-back-in-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/kalshi-court-ohio-sports-betting-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/ripple-eyes-australian-financial-license-through-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoiner-arthur-hayes-hesitant-buying-btc-federal-reserve-monetary-stance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +45,6 @@ https://cointelegraph.com/news/binance-us-names-new-ceo-crypto-exchange-eyes-exp
 https://cointelegraph.com/news/crypto-seed-phrase-exploit-android-phones-ledger-mediatek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/metaplanet-expands-bitcoin-playbook-venture-firm?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/crypto-atm-losses-fraud-surge-333m-2025-certik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/stablecoin-yields-united-states-banking-clarity-act-white-house?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/kalshi-preemptively-sues-iowa-claiming-risk-of-enforcement-action?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/ai-agent-payment-volume-closer-to-1-6m-says-a16z?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

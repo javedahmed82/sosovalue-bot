@@ -1,6 +1,3 @@
-https://cointelegraph.com/news/doj-investigates-binance-s-role-in-alleged-iran-sanctions-evasion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/wells-fargo-files-trademark-crypto-trading-payments-wfusd?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/scaling-ai-makes-riskier?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/us-senate-bill-targets-prediction-markets-on-war-and-assassinations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/india-arrests-darwin-labs-co-founder-in-gainbitcoin-scam-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/slowmist-security-framework-autonomous-ai-agents-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +45,6 @@ https://cointelegraph.com/news/bitcoin-catching-up-to-gold-hints-opportunity-wit
 https://cointelegraph.com/news/cftc-chair-prediction-markets-rulemaking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/tether-backs-ark-labs-in-5-2m-round-to-build-stablecoin-infrastructure-on-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/is-bitcoin-price-at-risk-if-private-credit-breaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/coinbase-deny-lobby-bitcoin-tax-exemption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/bitcoin-funding-rate-flips-negative-are-btc-bears-too-confident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/polychain-backs-veryai-s-10m-raise-to-build-palm-scan-identity-system-on-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

@@ -1,6 +1,3 @@
-https://cointelegraph.com/news/1m-btc-plausible-if-it-follows-gold-trajectory-bitwise-cio?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/aave-founder-says-daos-must-evolve-governance-conflicts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/ethereum-adoption-paradox-deepens-as-network-activity-increases-while-prices-sink?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/brera-solmate-pivot-solana-infrastructure-soccer-teams-reverse-stock-split?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-flip-highly-volatile-bull-case-80k-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/tokenized-rwas-rise-66-percent-2026-defillama?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +45,6 @@ https://cointelegraph.com/news/utah-set-to-block-prediction-markets-kalshi-polym
 https://cointelegraph.com/news/jpmorgan-328-million-crypto-ponzi-scheme-goliath?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-buyers-in-control-trend-wont-change-until-this-level-breaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/victims-challenge-uk-plan-for-billions-in-bitcoin-seized-in-chinese-fraud-case-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/south-korea-tax-agency-ai-system-track-crypto-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/stablecoins-crypto-resource?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/why-ray-dalio-says-bitcoin-can-t-replace-gold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

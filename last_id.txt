@@ -1,4 +1,3 @@
-https://cointelegraph.com/news/hyperliquid-hype-price-will-hit-150-by-august-predicts-arthur-hayes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/uk-government-fraud-strategy-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-orderbook-shows-imbalance-will-dollar70k-hold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/socgen-forge-deploys-mica-compliant-euro-stablecoin-eurcv-on-stellar-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +47,4 @@ https://cointelegraph.com/news/revolut-obtains-uk-bank-license?utm_source=rss_fe
 https://cointelegraph.com/news/mastercard-launches-crypto-partner-program-with-more-than-85-industry-participants?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/ripple-buy-back-shares-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/sec-cftc-sign-memo-regulate-markets-harmony?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

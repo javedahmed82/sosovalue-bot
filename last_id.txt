@@ -1,4 +1,3 @@
-https://cointelegraph.com/news/ripple-eyes-australian-financial-license-through-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoiner-arthur-hayes-hesitant-buying-btc-federal-reserve-monetary-stance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-sentiment-jumps-back-into-fomo-territory-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/ai-boost-jobs-trillions-dollars-infrastructure-needed-nvidia-huang?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +47,4 @@ https://cointelegraph.com/news/stablecoin-yields-united-states-banking-clarity-a
 https://cointelegraph.com/news/kalshi-preemptively-sues-iowa-claiming-risk-of-enforcement-action?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/ai-agent-payment-volume-closer-to-1-6m-says-a16z?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/nzdd-stablecoin-fma-regulatory-clarity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/bonk-fun-domain-hijack-wallet-drainer-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

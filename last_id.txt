@@ -1,5 +1,3 @@
-https://cointelegraph.com/news/nzdd-stablecoin-fma-regulatory-clarity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/bonk-fun-domain-hijack-wallet-drainer-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/us-prosecutors-oppose-sam-bankman-fried-new-trial-ftx-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/utah-set-to-block-prediction-markets-kalshi-polymarket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/jpmorgan-328-million-crypto-ponzi-scheme-goliath?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +46,5 @@ https://cointelegraph.com/news/bitcoiner-accused-bribery-nevis-residents?utm_sou
 https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-price-eyes-74k-rematch-us-pce-inflation-boosts-crypto-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/ai-power-demand-nuclear-revival-bitcoin-mining?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/kucoin-perpetual-futures-tracking-tesla-strategy-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/ethereum-accumulation-wallets-jump-30-percent-wil-eth-price-follow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

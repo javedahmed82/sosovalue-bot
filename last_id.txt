@@ -1,5 +1,3 @@
-https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/sec-cftc-sign-memo-regulate-markets-harmony?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/wall-street-brokers-offering-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/ghana-greenlights-11-crypto-companies-sandbox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/binance-us-names-new-ceo-crypto-exchange-eyes-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +46,5 @@ https://cointelegraph.com/news/bitcoin-extremely-precise-macro-signal-100k-targe
 https://cointelegraph.com/news/alibaba-35-million-raise-stablecoin-platform-metacomp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/sweden-e-government-source-code-leak-cgi-sverige?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-passing-geopolitical-stress-test-btc-price-spikes-above-72k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/crypto-conference-token2049-postpones-dubai-event-to-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/hsbc-standard-chartered-hong-kong-stablecoin-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

@@ -1,4 +1,3 @@
-https://cointelegraph.com/news/us-senate-votes-cbdc-ban-amendment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/anchorage-digital-integrates-puffer-finance-to-offer-institutional-ethereum-restaking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/sec-crypto-mom-simpler-disclosure-rules-flags-tokenization-debate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/us-senate-thune-crypto-market-structure-april?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +47,4 @@ https://cointelegraph.com/news/bitcoin-beats-stocks-strategy-strc-776m-btc-buyin
 https://cointelegraph.com/news/boris-johnson-btc-ponzi-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/changing-basel-rules-huge-liquidity-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/clarity-act-crypto-united-states-congress-galaxy-digital?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/bitcoin-whale-accumulation-btc-price-retail-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

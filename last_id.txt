@@ -1,6 +1,3 @@
-https://cointelegraph.com/news/key-bitcoin-price-levels-to-watch-as-btc-nears-new-monthly-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/circle-stock-stablecoin-growth-canaan-bitcoin-wells-fargo-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/ether-accumulation-data-predicts-rally-to-dollar2-8k-but-there-s-a-catch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/circle-usdc-tether-usdt-adjusted-ytd-volume-mizuho?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bpi-targets-august-btc-tax-relief-warns-time-running-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/federal-court-ends-custodia-bank-s-legal-bid-for-a-master-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +45,6 @@ https://cointelegraph.com/news/us-uk-canada-enforcement-operation-crypto-fraud?u
 https://cointelegraph.com/news/abra-nasdaq-spac-new-providence-crypto-wealth-manager-public-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/tokenized-securities-platform-ironlight-raises-21m-series-a-to-expand-regulated-trading-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-s-push-toward-75k-revives-debate-over-what-drives-capital-flows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/bitmine-buys-5-000-eth-from-ethereum-foundation-brings-holdings-to-4-6m-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/sxsw-recap-ai-crypto-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/bitcoin-tops-74-5k-but-are-pro-traders-turning-bullish-again?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

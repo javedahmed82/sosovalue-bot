@@ -1,4 +1,3 @@
-https://cointelegraph.com/news/vitalik-buterin-simplify-ethereum-node?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/venus-protocol-3-7-million-supply-cap-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/clarity-act-hand-crypto-centralized-player?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/aave-roll-out-aave-shield-after-50m-user-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +47,4 @@ https://cointelegraph.com/news/bitcoin-standard-author-ammous-envisions-world-wi
 https://cointelegraph.com/news/paypal-expand-pyusd-stablecoin-70-countries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/mastercard-to-acquire-bvnk-in-1-8b-stablecoin-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/xrp-holders-hit-record-7-7m-will-price-break-1-60?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/strategy-halts-bitcoin-buying-via-strc-will-btc-price-dip-again?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

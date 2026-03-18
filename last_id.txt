@@ -1,5 +1,3 @@
-https://cointelegraph.com/news/do-bitcoin-halvings-matter-anymore-if-strategy-s-strc-exists?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/bitcoin-powerful-move-nears-as-bollinger-bands-warn-of-volatility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-sparks-bull-trap-warning-after-btc-price-rejects-76k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/argentina-court-polymarket-block-order?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/cango-q4-loss-285m-mining-revenue-costs-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +46,5 @@ https://cointelegraph.com/news/senator-lummis-market-structure-bill-so-close?utm
 https://cointelegraph.com/news/rich-dad-poor-dad-author-says-pin-is-near-on-tradfi-bubble-burst-predicts-750k-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/s-p-dow-jones-licenses-first-s-p-500-perpetuals-for-onchain-trading-on-hyperliquid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/fed-holds-rates-amid-higher-inflation-outlook-bitcoin-bounces-to-dollar72k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/crypto-fear-and-greed-rebounds-off-extreme-lows-as-traders-re-enter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/ftx-recovery-trust-to-distribute-2-2b-to-creditors-in-march?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

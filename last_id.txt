@@ -1,6 +1,3 @@
-https://cointelegraph.com/news/japan-s-sbi-vc-trade-launches-retail-usdc-lending-as-stablecoin-use-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/bitcoin-tests-fresh-decoupling-trade-tech-correlation-breaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bhutan-offloads-72-3m-bitcoin-downturn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/senator-lummis-market-structure-bill-so-close?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/rich-dad-poor-dad-author-says-pin-is-near-on-tradfi-bubble-burst-predicts-750k-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +45,6 @@ https://cointelegraph.com/news/sec-interpretation-crypto-laws-paul-atkins?utm_so
 https://cointelegraph.com/news/bitcoin-price-tussle-at-dollar70k-may-hint-that-market-bottom-is-not-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/execution-quality-missing-metric?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/coinbase-apex-tokenized-bitcoin-yield-fund-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/solana-dapps-revenue-falls-to-18-month-low-as-sol-price-risks-80-retest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/fbi-warns-phishing-scam-tron-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/gemini-shares-up-after-hours-on-q4-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

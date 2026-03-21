@@ -1,4 +1,3 @@
-https://cointelegraph.com/news/coinbase-subdomain-seed-phrase-security-concern?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-prediction-markets-see-70-chance-btc-price-crashes-to-55k-in-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/xrp-signals-20-percent-rally-record-korean-exchange-withdrawals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/major-league-baseball-cftc-polymarket-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +47,4 @@ https://cointelegraph.com/news/bitcoin-weakness-deepens-as-war-pushes-traders-to
 https://cointelegraph.com/news/bitcoin-wallet-with-2100-btc-wakes-up-after-14-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/ethereum-whale-thomasg-eth-buys-19-5m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-mining-difficulty-drops-7-7-miner-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/hong-kong-retiree-loses-840k-triple-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

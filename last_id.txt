@@ -1,4 +1,3 @@
-https://cointelegraph.com/news/bybit-yield-tokenized-gold-xaut-rwa-trend?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/etherfi-turns-to-real-world-assets-for-yield-with-25m-plume-allocation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/forward-industries-solana-loan-share-buyback-galaxy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bpi-backdoor-hardware-wallets-kentucky-crypto-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +47,4 @@ https://cointelegraph.com/news/cftc-staff-clarify-expectations-crypto-collateral
 https://cointelegraph.com/news/nevada-judge-temporarily-blocks-kalshi-from-operating-in-the-state?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/resolv-labs-stablecoin-depegs-attacker-mints-millions-of-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/hawk-tuah-hailey-welsh-memecoin-traumatized?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/coinbase-backed-coindcx-founders-questioned-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

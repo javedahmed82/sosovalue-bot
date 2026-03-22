@@ -1,4 +1,3 @@
-https://cointelegraph.com/news/forward-industries-solana-loan-share-buyback-galaxy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bpi-backdoor-hardware-wallets-kentucky-crypto-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/sec-interpretation-crypto-laws-paul-atkins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-price-tussle-at-dollar70k-may-hint-that-market-bottom-is-not-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +47,4 @@ https://cointelegraph.com/news/resolv-labs-stablecoin-depegs-attacker-mints-mill
 https://cointelegraph.com/news/hawk-tuah-hailey-welsh-memecoin-traumatized?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/coinbase-backed-coindcx-founders-questioned-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-risks-50percent-drop-btc-positive-correlation-us-stocks-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/resolv-says-no-assets-lost-as-defi-partners-respond-to-usr-depeg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

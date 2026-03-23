@@ -1,5 +1,3 @@
-https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/what-happens-to-bitcoin-if-oil-price-hits-180-per-barrel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/rastani-further-bitcoin-downside-60k-key-level?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/white-house-national-ai-framework-unified-federal-approach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/traders-taco-trade-rude-awakening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +46,5 @@ https://cointelegraph.com/news/bitcoin-taco-pumps-71k-oil-crashes-trump-pauses-i
 https://cointelegraph.com/news/crypto-fund-inflows-slow-230-million-fed-hits-sentiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/spain-arrests-suspect-ledger-cofounder-kidnapping?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/senators-bill-sports-betting-ban-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/deloitte-stablecorp-qcad-canada-stablecoin-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/traders-bitcoin-still-due-next-leg-lower-targeting-46k-btc-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

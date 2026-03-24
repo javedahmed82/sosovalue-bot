@@ -1,6 +1,3 @@
-https://cointelegraph.com/news/gold-sees-biggest-weekly-fall-in-43-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/bitcoin-weakness-deepens-as-war-pushes-traders-to-cut-risk-in-btc-and-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/bitcoin-wallet-with-2100-btc-wakes-up-after-14-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/ethereum-whale-thomasg-eth-buys-19-5m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-mining-difficulty-drops-7-7-miner-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/hong-kong-retiree-loses-840k-triple-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +45,6 @@ https://cointelegraph.com/news/senator-warren-mrbeast-crypto-children?utm_source
 https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-s-battle-for-70k-continues-as-data-shows-traders-avoiding-bullish-positioning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/strategy-44-billion-plan-fund-bitcoin-buys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/eyecare-biotech-jumps-19-after-stablecoin-focused-rebrand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/kalshi-joins-polymarket-user-bans-head-off-insider-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/balancer-labs-shuts-down-protocol-continues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

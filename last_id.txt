@@ -1,5 +1,3 @@
-https://cointelegraph.com/news/ethereum-25-rally-richest-eth-whale-return-profitable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/bitcoin-options-signal-fear-even-as-btc-etf-outflows-remain-relatively-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/sec-crypto-guidance-final-nail-gensler-era?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/brazil-finance-minister-shelves-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/cftc-staff-clarify-expectations-crypto-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +46,5 @@ https://cointelegraph.com/news/balancer-labs-shuts-down-protocol-continues?utm_s
 https://cointelegraph.com/news/delaware-regulate-stablecoins-under-banking-framework-new-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/tron-dao-expands-ai-fund-1b-agentic-economy-race-heats-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/circle-provides-feedback-eu-market-integration-package?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/hostplus-considers-crypto-options-australia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/sec-top-enforcer-clashed-over-trump-cases-before-quitting-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

@@ -1,5 +1,3 @@
-https://cointelegraph.com/news/scaramucci-btc-4-year-cycle-play-rise-q4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/divergence-between-btc-gold-retail-central-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/tokenized-deposits-europe-banks-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/nyse-exchanges-scrap-crypto-options-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/saylor-hints-strategy-bitcoin-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +46,5 @@ https://cointelegraph.com/news/cryptography-firm-zama-taps-t-rex-to-bring-bank-g
 https://cointelegraph.com/explained/mastercard-bvnk-stablecoin-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/solana-brings-mastercard-western-union-new-dev-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/nyse-securitize-24-7-tokenized-securities-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/resolv-protocol-temporarily-halted-80m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/fira-fixed-rate-defi-lending-450m-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

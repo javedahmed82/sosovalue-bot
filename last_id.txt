@@ -1,6 +1,3 @@
-https://cointelegraph.com/news/what-happens-bitcoin-bond-yields-above-5percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/urgency-level-for-cover-news-title-siren-token-drops-63-a-day-after-wallet-concentration-drew-scrutiny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/cryptography-firm-zama-taps-t-rex-to-bring-bank-grade-privacy-to-public-blockchains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/explained/mastercard-bvnk-stablecoin-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/solana-brings-mastercard-western-union-new-dev-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/nyse-securitize-24-7-tokenized-securities-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +45,6 @@ https://cointelegraph.com/news/us-lawmakers-tokenized-securities-concerns?utm_so
 https://cointelegraph.com/news/data-points-to-accelerating-ether-supply-crunch-will-eth-price-follow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/zachxbt-claims-circle-wrongfully-freezing-exchange-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/18-6b-in-bitcoin-options-expire-friday-should-traders-prepare-for-75k-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/google-sets-quantum-migration-deadline-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/crypto-developer-michael-lewellen-case-dismissed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/bitcoin-depot-ex-moneygram-boss-as-ceo-state-actions-mount?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

@@ -1,5 +1,3 @@
-https://cointelegraph.com/news/cftc-innovation-task-force-crypto-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/circle-taps-african-fintech-sasai-to-expand-usdc-adoption-in-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/active-management-seen-as-next-phase-for-crypto-etfs-21shares-duncan-moir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/rising-us-treasury-yields-war-in-iran-rising-inflation-risk-pressure-bitcoin-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/ethereum-devs-up-security-efforts-post-quantum-team?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +46,5 @@ https://cointelegraph.com/news/circle-stock-crcl-25percent-rebound-clarity-act-f
 https://cointelegraph.com/news/blockchain-philanthropy-fails-africa-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/explained/uk-bitcoin-theft-seed-phrase-leak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/white-house-review-greenlights-crypto-401-k-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/active-treasury-dangerous-misnomer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/coinbase-launches-token-backed-down-payments-for-fannie-mae-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

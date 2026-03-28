@@ -1,4 +1,3 @@
-https://cointelegraph.com/news/brazil-law-seized-crypto-public-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/onchain-real-world-perps-surge-while-crypto-market-rout-drags-on-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bittensor-tao-price-may-punge-40percent-five-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/cftc-chairman-mike-selig-says-blockchain-could-help-verify-ai-generated-content?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +47,4 @@ https://cointelegraph.com/news/potential-bitcoin-crash-below-dollar60k-may-delay
 https://cointelegraph.com/news/warren-bitmain-us-security-concerns-probe-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/ai-agents-can-reshape-arbitrage-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/google-banks-back-5b-texas-data-center-anthropic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/tokeniz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

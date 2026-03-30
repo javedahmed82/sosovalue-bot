@@ -1,6 +1,3 @@
-https://cointelegraph.com/news/us-lawmaker-questions-kraken-fed-master-account-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/david-sacks-crypto-ai-czar-job-ends-takes-on-new-role?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/retail-buyers-dominate-strategy-stretch-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/lawmakers-push-second-bill-this-week-prediction-market-insider-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/us-court-temporarily-blocks-trump-supply-chain-risk-against-anthropic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/cathie-wood-ark-taps-kalshi-data-investment-decisions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +45,6 @@ https://cointelegraph.com/news/sam-altman-world-wld-sale-65m-token-lows?utm_sour
 https://cointelegraph.com/news/ethereum-builders-propose-economic-zone-to-tackle-l2-fragmentation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/walmart-backed-onepay-adds-a-dozen-new-tokens-in-push-to-serve-new-to-crypto-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/lido-dao-weights-20m-ldo-buyback-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/prediction-market-transactions-growth-march-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/fed-nominee-kevin-warsh-nomination-hearing-as-soon-as-april-13-punchbowl?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/okx-integrates-aave-on-eth-l2-x-layer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

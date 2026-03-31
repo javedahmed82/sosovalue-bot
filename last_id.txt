@@ -1,6 +1,3 @@
-https://cointelegraph.com/news/kalshi-legal-woes-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/canada-crypto-donation-deepfake-election-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/crypto-future-us-crackdowns-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bnp-paribas-bitcoin-ether-etns-france-retail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/onchain-commodity-trading-liquidity-gap-tradfi-depth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/etheruem-flippening-odds-rise-wont-involve-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +45,6 @@ https://cointelegraph.com/news/alleged-uranium-finance-hacker-54m-defi-exploit-i
 https://cointelegraph.com/news/us-senators-seek-probe-sec-enforcement-chief-s-exit-amid-trump-linked-crypto-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/labor-department-proposed-rule-change-crypto-401ks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitmine-extends-ether-buying-streak-five-weeks-147-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/quantum-computers-need-far-less-power-crack-crypto-says-google?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/kucoin-fined-500k-as-cftc-cases-ends?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/us-lawmakers-insider-trading-prediction-markets-cftc-stock-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

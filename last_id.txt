@@ -1,6 +1,3 @@
-https://cointelegraph.com/news/bitcoin-etfs-break-4-week-inflow-streak-outflows-directional-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/potential-bitcoin-crash-below-dollar60k-may-delay-recovery-to-2027-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/warren-bitmain-us-security-concerns-probe-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/ai-agents-can-reshape-arbitrage-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/google-banks-back-5b-texas-data-center-anthropic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/tokeniz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +45,6 @@ https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed
 https://cointelegraph.com/news/price-predictions-3-30-spx-dxy-btc-eth-bnb-xrp-sol-doge-ada-hype?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/peter-brandt-polymarket-traders-new-bitcoin-highs-unlikely-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-data-points-to-rare-trading-setup-for-relief-rally-to-dollar71k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/senators-bill-bitcoin-mining-manufacturing-usa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/oil-prices-hit-3-year-high-above-dollar105-will-bitcoin-crash-again?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/alleged-uranium-finance-hacker-54m-defi-exploit-indictment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

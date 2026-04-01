@@ -1,6 +1,3 @@
-https://cointelegraph.com/news/i-m-very-confused-about-what-bitcoin-actually-is-ran-neuner-questions-crypto-s-core-narrative?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/bitcoin-accumulators-buy-67k-btc-as-miners-slow-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/chainlink-anchorage-digital-crypto-pac-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/mitsubishi-jpmorgan-kinexys-blockchain-corporate-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/square-begins-auto-enabling-bitcoin-payments-for-eligible-us-sellers-exec-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/hyperliquid-whale-opens-53m-bitcoin-short-should-traders-take-notice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +45,6 @@ https://cointelegraph.com/news/trump-signals-us-withdrawal-iran-weeks?utm_source
 https://cointelegraph.com/news/bitcoin-stocks-soar-as-markets-respond-to-chance-of-us-and-israel-iran-war-ending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/solana-dex-volumes-drop-to-2024-lows-will-sol-hold-80-as-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitfarms-shares-rise-despite-285-million-net-loss-amid-ai-transition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/new-hampshire-s-bitcoin-backed-municipal-bond-edges-closer-to-launch-after-moodys-rating?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/mercado-libre-shut-down-mercado-coin-loyalty-rewards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/cftc-enforcement-chief-warns-insider-traders-on-prediction-markets-will-be-prosecuted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

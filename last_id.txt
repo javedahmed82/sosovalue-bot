@@ -1,6 +1,3 @@
-https://cointelegraph.com/news/openfx-raises-94m-stablecoin-fx-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/crypto-gains-political-clout-uk-young-voters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/stablecoins-who-gets-paid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/ethereum-bulls-must-hold-2k-volatility-hints-strong-price-move?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/galaxy-solana-staking-galaxyone-retail-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/massachusetts-haverhill-crypto-atm-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +45,6 @@ https://cointelegraph.com/news/trump-is-going-to-give-a-key-address-about-iran?u
 https://cointelegraph.com/news/taiwan-bitcoin-reserve-geopolitical-hedge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/crypto-scam-leader-extradited-to-china-fraud-money-laundering-charges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/genius-group-triples-revenue-but-liquidates-entire-bitcoin-stash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/crypto-vc-paradigm-building-prediction-market-terminal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/alabama-enacts-duna-act-grant-daos-legal-status?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/ftx-nishad-singh-cftc-fine-trading-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound

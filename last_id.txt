@@ -1,5 +1,3 @@
-https://cointelegraph.com/news/bitcoin-traders-forecast-short-term-downside-even-as-btc-price-chases-68k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-https://cointelegraph.com/news/bitcoin-s-dollar10k-range-expected-to-hold-until-spot-traders-show-up-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/interactive-brokers-expands-crypto-trading-to-retail-investors-in-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/bitcoin-hits-68k-but-btc-futures-macro-data-show-traders-remain-bearish?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/chainalysis-blockchain-intelligence-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
@@ -48,3 +46,5 @@ https://cointelegraph.com/news/bitcoin-trader-sees-new-lows-us-dollar-due-highes
 https://cointelegraph.com/news/xrp-price-down-30percent-2026-chart-1dollar-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/coinbase-clo-clarity-act-senate-markup-floor-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 https://cointelegraph.com/news/metaplanet-adds-5-075-btc-in-q1-bitcoin-options?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/drift-280-million-hack-questions-circle-response?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/polymarket-fees-revenue-surge-after-pricing-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
